@@ -1,0 +1,23 @@
+{
+  "train": {
+    "url": "https://huggingface.co/datasets/deepset/prompt-injections/resolve/main/data/train-00000-of-00001-9564e8b05b4757ab.parquet",
+    "sha256": "2e10bc7ab30f542c97e4e83e2a5683000b5057d25ec10908784c631d44124c04",
+    "rows": 546,
+    "bytes": 40323
+  },
+  "test": {
+    "url": "https://huggingface.co/datasets/deepset/prompt-injections/resolve/main/data/test-00000-of-00001-701d16158af87368.parquet",
+    "sha256": "39ac797cabc157eeed58435a08593b2952bb6cb16fc394a2d383f447cc7b246e",
+    "rows": 116,
+    "bytes": 10892
+  },
+  "total_rows": 662,
+  "missing_cells": 0,
+  "exact_duplicate_rows": 0,
+  "conflicting_text_groups": 0,
+  "all_cells_inspected": true,
+  "snapshot_decompressed_rows_checked": 662,
+  "snapshot_sha256": "266b01118cdc4b48540130ea35ca11b9ddb2795fba21ba7aa22936dcb00b9e1c",
+  "model_sha256": "445ad54488167abfd1ce4e6341f6d99798849c98c08ab2e0dbcd2fd31d4e94ed",
+  "all_saved_scores_finite": true
+}

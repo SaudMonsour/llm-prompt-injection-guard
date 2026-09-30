@@ -1,0 +1,10 @@
+{
+  "command": "TZ=Asia/Riyadh python3.12 -m daily_ds.agent",
+  "date": "2026-09-30",
+  "exit_code": 1,
+  "status": "no_project",
+  "failures": [],
+  "discovery_offset_before": 1200,
+  "discovery_offset_after": 1500,
+  "fallback": "The canonical OpenML discovery completed without an eligible dataset. A separately reviewed project-local pipeline then built the user-requested practical LLM engineering study from the Apache-2.0 deepset prompt-injections dataset."
+}

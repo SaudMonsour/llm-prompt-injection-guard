@@ -1,0 +1,2731 @@
+model,fold,source_row,y_true,probability,prediction
+Rule scanner,1,3,0,0.0,0
+Rule scanner,1,11,0,0.0,0
+Rule scanner,1,21,0,0.0,0
+Rule scanner,1,23,0,0.0,0
+Rule scanner,1,32,1,0.0,0
+Rule scanner,1,34,0,0.0,0
+Rule scanner,1,39,0,0.0,0
+Rule scanner,1,47,0,0.0,0
+Rule scanner,1,50,0,0.0,0
+Rule scanner,1,55,0,0.0,0
+Rule scanner,1,61,0,0.0,0
+Rule scanner,1,63,0,0.0,0
+Rule scanner,1,66,0,0.0,0
+Rule scanner,1,69,1,0.0,0
+Rule scanner,1,77,0,0.0,0
+Rule scanner,1,78,1,1.0,1
+Rule scanner,1,79,0,0.0,0
+Rule scanner,1,82,0,0.0,0
+Rule scanner,1,89,1,0.0,0
+Rule scanner,1,94,0,0.0,0
+Rule scanner,1,100,0,0.0,0
+Rule scanner,1,101,0,0.0,0
+Rule scanner,1,109,1,0.0,0
+Rule scanner,1,113,0,0.0,0
+Rule scanner,1,119,0,0.0,0
+Rule scanner,1,122,0,0.0,0
+Rule scanner,1,132,0,0.0,0
+Rule scanner,1,135,1,0.0,0
+Rule scanner,1,136,0,0.0,0
+Rule scanner,1,137,1,0.0,0
+Rule scanner,1,138,1,0.0,0
+Rule scanner,1,139,0,0.0,0
+Rule scanner,1,145,0,0.0,0
+Rule scanner,1,146,0,0.0,0
+Rule scanner,1,149,0,0.0,0
+Rule scanner,1,151,0,0.0,0
+Rule scanner,1,158,1,1.0,1
+Rule scanner,1,173,1,0.0,0
+Rule scanner,1,175,0,0.0,0
+Rule scanner,1,176,0,0.0,0
+Rule scanner,1,177,0,0.0,0
+Rule scanner,1,178,1,0.0,0
+Rule scanner,1,181,0,0.0,0
+Rule scanner,1,190,1,0.0,0
+Rule scanner,1,200,0,0.0,0
+Rule scanner,1,218,1,0.0,0
+Rule scanner,1,219,0,0.0,0
+Rule scanner,1,231,0,0.0,0
+Rule scanner,1,241,0,0.0,0
+Rule scanner,1,243,0,0.0,0
+Rule scanner,1,251,0,0.0,0
+Rule scanner,1,252,0,0.0,0
+Rule scanner,1,253,0,0.0,0
+Rule scanner,1,260,1,0.0,0
+Rule scanner,1,262,0,0.0,0
+Rule scanner,1,271,0,0.0,0
+Rule scanner,1,276,0,0.0,0
+Rule scanner,1,280,0,0.0,0
+Rule scanner,1,281,0,0.0,0
+Rule scanner,1,296,1,0.0,0
+Rule scanner,1,298,0,0.0,0
+Rule scanner,1,300,0,0.0,0
+Rule scanner,1,303,0,0.0,0
+Rule scanner,1,306,0,0.0,0
+Rule scanner,1,308,0,0.0,0
+Rule scanner,1,313,0,0.0,0
+Rule scanner,1,322,0,0.0,0
+Rule scanner,1,323,1,0.0,0
+Rule scanner,1,327,0,0.0,0
+Rule scanner,1,328,0,0.0,0
+Rule scanner,1,329,0,0.0,0
+Rule scanner,1,331,0,0.0,0
+Rule scanner,1,333,1,0.0,0
+Rule scanner,1,352,0,0.0,0
+Rule scanner,1,359,0,0.0,0
+Rule scanner,1,360,1,0.0,0
+Rule scanner,1,361,0,0.0,0
+Rule scanner,1,363,1,0.0,0
+Rule scanner,1,364,0,0.0,0
+Rule scanner,1,367,1,0.0,0
+Rule scanner,1,368,1,0.0,0
+Rule scanner,1,371,1,0.0,0
+Rule scanner,1,376,0,0.0,0
+Rule scanner,1,384,1,0.0,0
+Rule scanner,1,386,1,0.0,0
+Rule scanner,1,387,0,0.0,0
+Rule scanner,1,396,0,0.0,0
+Rule scanner,1,409,1,0.0,0
+Rule scanner,1,418,0,0.0,0
+Rule scanner,1,420,0,0.0,0
+Rule scanner,1,428,1,0.0,0
+Rule scanner,1,431,0,0.0,0
+Rule scanner,1,432,0,0.0,0
+Rule scanner,1,436,0,0.0,0
+Rule scanner,1,443,1,0.0,0
+Rule scanner,1,462,1,0.0,0
+Rule scanner,1,464,1,0.0,0
+Rule scanner,1,469,1,0.0,0
+Rule scanner,1,477,0,0.0,0
+Rule scanner,1,483,1,0.0,0
+Rule scanner,1,501,1,0.0,0
+Rule scanner,1,503,1,0.0,0
+Rule scanner,1,510,1,0.0,0
+Rule scanner,1,522,1,0.0,0
+Rule scanner,1,530,1,0.0,0
+Rule scanner,1,532,1,0.0,0
+Rule scanner,1,534,1,0.0,0
+Rule scanner,1,538,1,0.0,0
+Rule scanner,1,543,1,0.0,0
+Rule scanner,1,545,1,0.0,0
+Rule scanner,2,1,0,0.0,0
+Rule scanner,2,2,0,0.0,0
+Rule scanner,2,5,0,0.0,0
+Rule scanner,2,12,0,0.0,0
+Rule scanner,2,16,0,0.0,0
+Rule scanner,2,18,0,0.0,0
+Rule scanner,2,25,0,0.0,0
+Rule scanner,2,27,0,0.0,0
+Rule scanner,2,28,0,0.0,0
+Rule scanner,2,35,0,0.0,0
+Rule scanner,2,37,0,0.0,0
+Rule scanner,2,38,1,0.0,0
+Rule scanner,2,42,1,1.0,1
+Rule scanner,2,44,0,0.0,0
+Rule scanner,2,45,0,0.0,0
+Rule scanner,2,46,0,0.0,0
+Rule scanner,2,54,0,0.0,0
+Rule scanner,2,60,0,0.0,0
+Rule scanner,2,75,0,0.0,0
+Rule scanner,2,76,0,0.0,0
+Rule scanner,2,81,0,0.0,0
+Rule scanner,2,83,0,0.0,0
+Rule scanner,2,90,0,0.0,0
+Rule scanner,2,95,0,0.0,0
+Rule scanner,2,97,0,0.0,0
+Rule scanner,2,114,1,0.0,0
+Rule scanner,2,117,0,0.0,0
+Rule scanner,2,125,1,0.0,0
+Rule scanner,2,133,0,0.0,0
+Rule scanner,2,134,0,0.0,0
+Rule scanner,2,142,0,0.0,0
+Rule scanner,2,154,1,1.0,1
+Rule scanner,2,157,0,0.0,0
+Rule scanner,2,165,0,0.0,0
+Rule scanner,2,166,0,0.0,0
+Rule scanner,2,169,0,0.0,0
+Rule scanner,2,171,1,0.0,0
+Rule scanner,2,172,0,0.0,0
+Rule scanner,2,180,0,0.0,0
+Rule scanner,2,185,0,0.0,0
+Rule scanner,2,188,0,0.0,0
+Rule scanner,2,199,0,0.0,0
+Rule scanner,2,204,0,0.0,0
+Rule scanner,2,207,0,0.0,0
+Rule scanner,2,212,1,0.0,0
+Rule scanner,2,220,0,0.0,0
+Rule scanner,2,223,1,0.0,0
+Rule scanner,2,225,0,0.0,0
+Rule scanner,2,228,0,0.0,0
+Rule scanner,2,229,0,0.0,0
+Rule scanner,2,232,0,0.0,0
+Rule scanner,2,234,0,0.0,0
+Rule scanner,2,238,0,0.0,0
+Rule scanner,2,245,0,0.0,0
+Rule scanner,2,247,0,0.0,0
+Rule scanner,2,259,0,0.0,0
+Rule scanner,2,263,0,0.0,0
+Rule scanner,2,267,1,0.0,0
+Rule scanner,2,269,1,0.0,0
+Rule scanner,2,270,0,0.0,0
+Rule scanner,2,272,0,0.0,0
+Rule scanner,2,275,0,0.0,0
+Rule scanner,2,286,0,0.0,0
+Rule scanner,2,293,0,0.0,0
+Rule scanner,2,294,1,0.0,0
+Rule scanner,2,297,0,0.0,0
+Rule scanner,2,315,1,0.0,0
+Rule scanner,2,324,1,0.0,0
+Rule scanner,2,325,0,0.0,0
+Rule scanner,2,326,0,0.0,0
+Rule scanner,2,332,1,0.0,0
+Rule scanner,2,334,1,0.0,0
+Rule scanner,2,338,1,0.0,0
+Rule scanner,2,357,0,0.0,0
+Rule scanner,2,365,1,0.0,0
+Rule scanner,2,370,0,0.0,0
+Rule scanner,2,383,0,0.0,0
+Rule scanner,2,397,0,0.0,0
+Rule scanner,2,406,1,0.0,0
+Rule scanner,2,410,0,0.0,0
+Rule scanner,2,422,1,0.0,0
+Rule scanner,2,425,1,0.0,0
+Rule scanner,2,435,1,0.0,0
+Rule scanner,2,438,1,0.0,0
+Rule scanner,2,441,1,0.0,0
+Rule scanner,2,455,0,0.0,0
+Rule scanner,2,456,1,0.0,0
+Rule scanner,2,460,0,0.0,0
+Rule scanner,2,463,0,0.0,0
+Rule scanner,2,470,1,0.0,0
+Rule scanner,2,475,0,0.0,0
+Rule scanner,2,480,0,0.0,0
+Rule scanner,2,482,0,0.0,0
+Rule scanner,2,485,0,0.0,0
+Rule scanner,2,494,1,0.0,0
+Rule scanner,2,495,1,0.0,0
+Rule scanner,2,497,1,0.0,0
+Rule scanner,2,506,1,1.0,1
+Rule scanner,2,509,1,0.0,0
+Rule scanner,2,511,1,0.0,0
+Rule scanner,2,512,1,1.0,1
+Rule scanner,2,515,1,0.0,0
+Rule scanner,2,518,1,0.0,0
+Rule scanner,2,520,1,1.0,1
+Rule scanner,2,523,1,0.0,0
+Rule scanner,2,531,1,1.0,1
+Rule scanner,2,535,1,0.0,0
+Rule scanner,2,537,1,0.0,0
+Rule scanner,2,541,1,0.0,0
+Rule scanner,3,7,0,0.0,0
+Rule scanner,3,8,0,0.0,0
+Rule scanner,3,10,1,0.0,0
+Rule scanner,3,17,0,0.0,0
+Rule scanner,3,19,0,0.0,0
+Rule scanner,3,20,0,0.0,0
+Rule scanner,3,22,0,0.0,0
+Rule scanner,3,26,0,0.0,0
+Rule scanner,3,29,0,0.0,0
+Rule scanner,3,30,0,0.0,0
+Rule scanner,3,33,0,0.0,0
+Rule scanner,3,51,0,0.0,0
+Rule scanner,3,58,0,0.0,0
+Rule scanner,3,62,0,0.0,0
+Rule scanner,3,70,1,1.0,1
+Rule scanner,3,73,0,0.0,0
+Rule scanner,3,99,0,0.0,0
+Rule scanner,3,104,0,0.0,0
+Rule scanner,3,111,0,0.0,0
+Rule scanner,3,115,0,0.0,0
+Rule scanner,3,118,0,0.0,0
+Rule scanner,3,120,0,0.0,0
+Rule scanner,3,127,0,0.0,0
+Rule scanner,3,130,1,1.0,1
+Rule scanner,3,131,0,0.0,0
+Rule scanner,3,159,0,0.0,0
+Rule scanner,3,161,0,0.0,0
+Rule scanner,3,162,0,0.0,0
+Rule scanner,3,164,0,0.0,0
+Rule scanner,3,174,0,0.0,0
+Rule scanner,3,179,0,0.0,0
+Rule scanner,3,184,1,0.0,0
+Rule scanner,3,186,0,0.0,0
+Rule scanner,3,187,0,0.0,0
+Rule scanner,3,193,0,0.0,0
+Rule scanner,3,197,0,0.0,0
+Rule scanner,3,203,0,0.0,0
+Rule scanner,3,213,0,0.0,0
+Rule scanner,3,214,0,0.0,0
+Rule scanner,3,216,0,0.0,0
+Rule scanner,3,221,0,0.0,0
+Rule scanner,3,222,1,0.0,0
+Rule scanner,3,235,0,0.0,0
+Rule scanner,3,237,0,0.0,0
+Rule scanner,3,239,0,0.0,0
+Rule scanner,3,246,0,0.0,0
+Rule scanner,3,248,0,0.0,0
+Rule scanner,3,255,0,0.0,0
+Rule scanner,3,256,0,0.0,0
+Rule scanner,3,258,1,0.0,0
+Rule scanner,3,265,0,0.0,0
+Rule scanner,3,268,0,0.0,0
+Rule scanner,3,274,0,0.0,0
+Rule scanner,3,278,0,0.0,0
+Rule scanner,3,283,1,0.0,0
+Rule scanner,3,288,0,0.0,0
+Rule scanner,3,289,1,0.0,0
+Rule scanner,3,295,0,0.0,0
+Rule scanner,3,301,0,0.0,0
+Rule scanner,3,310,1,0.0,0
+Rule scanner,3,311,0,0.0,0
+Rule scanner,3,318,1,0.0,0
+Rule scanner,3,319,0,0.0,0
+Rule scanner,3,321,0,0.0,0
+Rule scanner,3,330,0,0.0,0
+Rule scanner,3,349,0,0.0,0
+Rule scanner,3,350,0,0.0,0
+Rule scanner,3,355,0,0.0,0
+Rule scanner,3,358,1,0.0,0
+Rule scanner,3,372,1,0.0,0
+Rule scanner,3,373,0,0.0,0
+Rule scanner,3,378,1,0.0,0
+Rule scanner,3,391,1,0.0,0
+Rule scanner,3,393,1,0.0,0
+Rule scanner,3,395,1,0.0,0
+Rule scanner,3,398,1,0.0,0
+Rule scanner,3,399,1,0.0,0
+Rule scanner,3,407,0,0.0,0
+Rule scanner,3,419,1,0.0,0
+Rule scanner,3,423,0,0.0,0
+Rule scanner,3,424,0,0.0,0
+Rule scanner,3,427,1,0.0,0
+Rule scanner,3,429,0,0.0,0
+Rule scanner,3,430,0,0.0,0
+Rule scanner,3,442,0,0.0,0
+Rule scanner,3,447,0,0.0,0
+Rule scanner,3,450,1,0.0,0
+Rule scanner,3,453,1,0.0,0
+Rule scanner,3,454,0,0.0,0
+Rule scanner,3,457,0,0.0,0
+Rule scanner,3,458,1,0.0,0
+Rule scanner,3,461,1,0.0,0
+Rule scanner,3,471,1,0.0,0
+Rule scanner,3,473,1,0.0,0
+Rule scanner,3,478,0,0.0,0
+Rule scanner,3,487,1,0.0,0
+Rule scanner,3,489,1,0.0,0
+Rule scanner,3,491,1,1.0,1
+Rule scanner,3,498,1,0.0,0
+Rule scanner,3,499,1,0.0,0
+Rule scanner,3,500,1,0.0,0
+Rule scanner,3,502,1,0.0,0
+Rule scanner,3,504,1,0.0,0
+Rule scanner,3,508,1,0.0,0
+Rule scanner,3,521,1,0.0,0
+Rule scanner,3,524,1,0.0,0
+Rule scanner,3,525,1,0.0,0
+Rule scanner,3,527,1,0.0,0
+Rule scanner,3,542,1,0.0,0
+Rule scanner,4,0,0,0.0,0
+Rule scanner,4,4,1,1.0,1
+Rule scanner,4,13,0,0.0,0
+Rule scanner,4,15,0,0.0,0
+Rule scanner,4,36,0,0.0,0
+Rule scanner,4,40,0,0.0,0
+Rule scanner,4,48,0,0.0,0
+Rule scanner,4,49,0,0.0,0
+Rule scanner,4,53,0,0.0,0
+Rule scanner,4,57,0,0.0,0
+Rule scanner,4,59,0,0.0,0
+Rule scanner,4,67,0,0.0,0
+Rule scanner,4,72,0,0.0,0
+Rule scanner,4,74,1,1.0,1
+Rule scanner,4,87,1,1.0,1
+Rule scanner,4,92,0,0.0,0
+Rule scanner,4,96,0,0.0,0
+Rule scanner,4,105,0,0.0,0
+Rule scanner,4,106,0,0.0,0
+Rule scanner,4,108,0,0.0,0
+Rule scanner,4,110,0,0.0,0
+Rule scanner,4,112,0,0.0,0
+Rule scanner,4,116,1,0.0,0
+Rule scanner,4,121,0,0.0,0
+Rule scanner,4,123,0,0.0,0
+Rule scanner,4,126,0,0.0,0
+Rule scanner,4,128,0,0.0,0
+Rule scanner,4,141,0,0.0,0
+Rule scanner,4,150,0,0.0,0
+Rule scanner,4,152,1,0.0,0
+Rule scanner,4,153,1,1.0,1
+Rule scanner,4,155,0,0.0,0
+Rule scanner,4,163,0,0.0,0
+Rule scanner,4,167,0,0.0,0
+Rule scanner,4,168,1,0.0,0
+Rule scanner,4,170,0,0.0,0
+Rule scanner,4,183,0,0.0,0
+Rule scanner,4,194,0,0.0,0
+Rule scanner,4,198,0,0.0,0
+Rule scanner,4,202,0,0.0,0
+Rule scanner,4,206,0,0.0,0
+Rule scanner,4,210,0,0.0,0
+Rule scanner,4,215,0,0.0,0
+Rule scanner,4,217,0,0.0,0
+Rule scanner,4,224,0,0.0,0
+Rule scanner,4,240,0,0.0,0
+Rule scanner,4,244,0,0.0,0
+Rule scanner,4,250,1,0.0,0
+Rule scanner,4,257,0,0.0,0
+Rule scanner,4,261,0,0.0,0
+Rule scanner,4,264,0,0.0,0
+Rule scanner,4,273,0,0.0,0
+Rule scanner,4,287,0,0.0,0
+Rule scanner,4,291,0,0.0,0
+Rule scanner,4,292,0,0.0,0
+Rule scanner,4,299,0,0.0,0
+Rule scanner,4,302,0,0.0,0
+Rule scanner,4,316,0,0.0,0
+Rule scanner,4,337,0,0.0,0
+Rule scanner,4,340,0,0.0,0
+Rule scanner,4,341,0,0.0,0
+Rule scanner,4,342,0,0.0,0
+Rule scanner,4,344,0,0.0,0
+Rule scanner,4,347,0,0.0,0
+Rule scanner,4,348,1,0.0,0
+Rule scanner,4,351,1,0.0,0
+Rule scanner,4,354,0,0.0,0
+Rule scanner,4,356,0,0.0,0
+Rule scanner,4,369,1,0.0,0
+Rule scanner,4,374,1,0.0,0
+Rule scanner,4,375,1,0.0,0
+Rule scanner,4,379,0,0.0,0
+Rule scanner,4,381,1,0.0,0
+Rule scanner,4,385,1,0.0,0
+Rule scanner,4,388,0,0.0,0
+Rule scanner,4,390,0,0.0,0
+Rule scanner,4,392,1,0.0,0
+Rule scanner,4,394,1,0.0,0
+Rule scanner,4,400,1,0.0,0
+Rule scanner,4,401,1,0.0,0
+Rule scanner,4,402,1,0.0,0
+Rule scanner,4,403,1,0.0,0
+Rule scanner,4,404,0,0.0,0
+Rule scanner,4,417,0,0.0,0
+Rule scanner,4,433,0,0.0,0
+Rule scanner,4,434,0,0.0,0
+Rule scanner,4,437,1,0.0,0
+Rule scanner,4,440,1,0.0,0
+Rule scanner,4,445,1,0.0,0
+Rule scanner,4,446,1,0.0,0
+Rule scanner,4,448,1,1.0,1
+Rule scanner,4,451,0,0.0,0
+Rule scanner,4,459,1,0.0,0
+Rule scanner,4,465,1,0.0,0
+Rule scanner,4,466,1,0.0,0
+Rule scanner,4,467,1,0.0,0
+Rule scanner,4,468,1,0.0,0
+Rule scanner,4,474,0,0.0,0
+Rule scanner,4,484,0,0.0,0
+Rule scanner,4,488,1,1.0,1
+Rule scanner,4,490,1,0.0,0
+Rule scanner,4,516,1,0.0,0
+Rule scanner,4,517,1,0.0,0
+Rule scanner,4,526,1,0.0,0
+Rule scanner,4,528,1,1.0,1
+Rule scanner,4,529,1,0.0,0
+Rule scanner,4,536,1,0.0,0
+Rule scanner,4,539,1,0.0,0
+Rule scanner,4,540,1,0.0,0
+Rule scanner,5,6,0,0.0,0
+Rule scanner,5,9,0,0.0,0
+Rule scanner,5,14,0,0.0,0
+Rule scanner,5,24,0,0.0,0
+Rule scanner,5,31,0,0.0,0
+Rule scanner,5,41,0,0.0,0
+Rule scanner,5,43,1,0.0,0
+Rule scanner,5,52,0,0.0,0
+Rule scanner,5,56,1,1.0,1
+Rule scanner,5,64,0,0.0,0
+Rule scanner,5,65,0,0.0,0
+Rule scanner,5,68,0,0.0,0
+Rule scanner,5,71,0,0.0,0
+Rule scanner,5,80,1,1.0,1
+Rule scanner,5,84,0,0.0,0
+Rule scanner,5,85,0,0.0,0
+Rule scanner,5,86,1,1.0,1
+Rule scanner,5,88,0,0.0,0
+Rule scanner,5,91,0,0.0,0
+Rule scanner,5,93,0,0.0,0
+Rule scanner,5,98,0,0.0,0
+Rule scanner,5,102,0,0.0,0
+Rule scanner,5,103,1,0.0,0
+Rule scanner,5,107,0,0.0,0
+Rule scanner,5,124,1,0.0,0
+Rule scanner,5,129,0,0.0,0
+Rule scanner,5,140,0,0.0,0
+Rule scanner,5,143,1,1.0,1
+Rule scanner,5,144,1,0.0,0
+Rule scanner,5,147,0,0.0,0
+Rule scanner,5,148,0,0.0,0
+Rule scanner,5,156,0,0.0,0
+Rule scanner,5,160,0,0.0,0
+Rule scanner,5,182,0,0.0,0
+Rule scanner,5,189,0,0.0,0
+Rule scanner,5,191,0,0.0,0
+Rule scanner,5,192,0,0.0,0
+Rule scanner,5,195,0,0.0,0
+Rule scanner,5,196,0,0.0,0
+Rule scanner,5,201,0,0.0,0
+Rule scanner,5,205,0,0.0,0
+Rule scanner,5,208,0,0.0,0
+Rule scanner,5,209,0,0.0,0
+Rule scanner,5,211,0,0.0,0
+Rule scanner,5,226,0,0.0,0
+Rule scanner,5,227,0,0.0,0
+Rule scanner,5,230,0,0.0,0
+Rule scanner,5,233,0,0.0,0
+Rule scanner,5,236,1,0.0,0
+Rule scanner,5,242,0,0.0,0
+Rule scanner,5,249,1,0.0,0
+Rule scanner,5,254,1,0.0,0
+Rule scanner,5,266,1,0.0,0
+Rule scanner,5,277,0,0.0,0
+Rule scanner,5,279,0,0.0,0
+Rule scanner,5,282,0,0.0,0
+Rule scanner,5,284,0,0.0,0
+Rule scanner,5,285,0,0.0,0
+Rule scanner,5,290,0,0.0,0
+Rule scanner,5,304,1,0.0,0
+Rule scanner,5,305,1,0.0,0
+Rule scanner,5,307,0,0.0,0
+Rule scanner,5,309,0,0.0,0
+Rule scanner,5,312,0,0.0,0
+Rule scanner,5,314,0,0.0,0
+Rule scanner,5,317,1,0.0,0
+Rule scanner,5,320,0,0.0,0
+Rule scanner,5,335,0,0.0,0
+Rule scanner,5,336,0,0.0,0
+Rule scanner,5,339,0,0.0,0
+Rule scanner,5,343,0,0.0,0
+Rule scanner,5,345,0,0.0,0
+Rule scanner,5,346,0,0.0,0
+Rule scanner,5,353,1,0.0,0
+Rule scanner,5,362,1,0.0,0
+Rule scanner,5,366,1,0.0,0
+Rule scanner,5,377,1,1.0,1
+Rule scanner,5,380,1,0.0,0
+Rule scanner,5,382,1,0.0,0
+Rule scanner,5,389,1,0.0,0
+Rule scanner,5,405,1,1.0,1
+Rule scanner,5,408,0,0.0,0
+Rule scanner,5,411,1,0.0,0
+Rule scanner,5,412,0,0.0,0
+Rule scanner,5,413,0,0.0,0
+Rule scanner,5,414,1,0.0,0
+Rule scanner,5,415,1,1.0,1
+Rule scanner,5,416,1,0.0,0
+Rule scanner,5,421,1,0.0,0
+Rule scanner,5,426,0,0.0,0
+Rule scanner,5,439,0,0.0,0
+Rule scanner,5,444,0,0.0,0
+Rule scanner,5,449,0,0.0,0
+Rule scanner,5,452,0,0.0,0
+Rule scanner,5,472,0,0.0,0
+Rule scanner,5,476,0,0.0,0
+Rule scanner,5,479,1,0.0,0
+Rule scanner,5,481,1,0.0,0
+Rule scanner,5,486,1,0.0,0
+Rule scanner,5,492,1,0.0,0
+Rule scanner,5,493,1,0.0,0
+Rule scanner,5,496,1,0.0,0
+Rule scanner,5,505,1,0.0,0
+Rule scanner,5,507,1,0.0,0
+Rule scanner,5,513,1,1.0,1
+Rule scanner,5,514,1,0.0,0
+Rule scanner,5,519,1,0.0,0
+Rule scanner,5,533,1,0.0,0
+Rule scanner,5,544,1,0.0,0
+Dummy baseline,1,3,0,0.0,0
+Dummy baseline,1,11,0,0.0,0
+Dummy baseline,1,21,0,0.0,0
+Dummy baseline,1,23,0,0.0,0
+Dummy baseline,1,32,1,0.0,0
+Dummy baseline,1,34,0,0.0,0
+Dummy baseline,1,39,0,0.0,0
+Dummy baseline,1,47,0,0.0,0
+Dummy baseline,1,50,0,0.0,0
+Dummy baseline,1,55,0,0.0,0
+Dummy baseline,1,61,0,0.0,0
+Dummy baseline,1,63,0,0.0,0
+Dummy baseline,1,66,0,0.0,0
+Dummy baseline,1,69,1,0.0,0
+Dummy baseline,1,77,0,0.0,0
+Dummy baseline,1,78,1,0.0,0
+Dummy baseline,1,79,0,0.0,0
+Dummy baseline,1,82,0,0.0,0
+Dummy baseline,1,89,1,0.0,0
+Dummy baseline,1,94,0,0.0,0
+Dummy baseline,1,100,0,0.0,0
+Dummy baseline,1,101,0,0.0,0
+Dummy baseline,1,109,1,0.0,0
+Dummy baseline,1,113,0,0.0,0
+Dummy baseline,1,119,0,0.0,0
+Dummy baseline,1,122,0,0.0,0
+Dummy baseline,1,132,0,0.0,0
+Dummy baseline,1,135,1,0.0,0
+Dummy baseline,1,136,0,0.0,0
+Dummy baseline,1,137,1,0.0,0
+Dummy baseline,1,138,1,0.0,0
+Dummy baseline,1,139,0,0.0,0
+Dummy baseline,1,145,0,0.0,0
+Dummy baseline,1,146,0,0.0,0
+Dummy baseline,1,149,0,0.0,0
+Dummy baseline,1,151,0,0.0,0
+Dummy baseline,1,158,1,0.0,0
+Dummy baseline,1,173,1,0.0,0
+Dummy baseline,1,175,0,0.0,0
+Dummy baseline,1,176,0,0.0,0
+Dummy baseline,1,177,0,0.0,0
+Dummy baseline,1,178,1,0.0,0
+Dummy baseline,1,181,0,0.0,0
+Dummy baseline,1,190,1,0.0,0
+Dummy baseline,1,200,0,0.0,0
+Dummy baseline,1,218,1,0.0,0
+Dummy baseline,1,219,0,0.0,0
+Dummy baseline,1,231,0,0.0,0
+Dummy baseline,1,241,0,0.0,0
+Dummy baseline,1,243,0,0.0,0
+Dummy baseline,1,251,0,0.0,0
+Dummy baseline,1,252,0,0.0,0
+Dummy baseline,1,253,0,0.0,0
+Dummy baseline,1,260,1,0.0,0
+Dummy baseline,1,262,0,0.0,0
+Dummy baseline,1,271,0,0.0,0
+Dummy baseline,1,276,0,0.0,0
+Dummy baseline,1,280,0,0.0,0
+Dummy baseline,1,281,0,0.0,0
+Dummy baseline,1,296,1,0.0,0
+Dummy baseline,1,298,0,0.0,0
+Dummy baseline,1,300,0,0.0,0
+Dummy baseline,1,303,0,0.0,0
+Dummy baseline,1,306,0,0.0,0
+Dummy baseline,1,308,0,0.0,0
+Dummy baseline,1,313,0,0.0,0
+Dummy baseline,1,322,0,0.0,0
+Dummy baseline,1,323,1,0.0,0
+Dummy baseline,1,327,0,0.0,0
+Dummy baseline,1,328,0,0.0,0
+Dummy baseline,1,329,0,0.0,0
+Dummy baseline,1,331,0,0.0,0
+Dummy baseline,1,333,1,0.0,0
+Dummy baseline,1,352,0,0.0,0
+Dummy baseline,1,359,0,0.0,0
+Dummy baseline,1,360,1,0.0,0
+Dummy baseline,1,361,0,0.0,0
+Dummy baseline,1,363,1,0.0,0
+Dummy baseline,1,364,0,0.0,0
+Dummy baseline,1,367,1,0.0,0
+Dummy baseline,1,368,1,0.0,0
+Dummy baseline,1,371,1,0.0,0
+Dummy baseline,1,376,0,0.0,0
+Dummy baseline,1,384,1,0.0,0
+Dummy baseline,1,386,1,0.0,0
+Dummy baseline,1,387,0,0.0,0
+Dummy baseline,1,396,0,0.0,0
+Dummy baseline,1,409,1,0.0,0
+Dummy baseline,1,418,0,0.0,0
+Dummy baseline,1,420,0,0.0,0
+Dummy baseline,1,428,1,0.0,0
+Dummy baseline,1,431,0,0.0,0
+Dummy baseline,1,432,0,0.0,0
+Dummy baseline,1,436,0,0.0,0
+Dummy baseline,1,443,1,0.0,0
+Dummy baseline,1,462,1,0.0,0
+Dummy baseline,1,464,1,0.0,0
+Dummy baseline,1,469,1,0.0,0
+Dummy baseline,1,477,0,0.0,0
+Dummy baseline,1,483,1,0.0,0
+Dummy baseline,1,501,1,0.0,0
+Dummy baseline,1,503,1,0.0,0
+Dummy baseline,1,510,1,0.0,0
+Dummy baseline,1,522,1,0.0,0
+Dummy baseline,1,530,1,0.0,0
+Dummy baseline,1,532,1,0.0,0
+Dummy baseline,1,534,1,0.0,0
+Dummy baseline,1,538,1,0.0,0
+Dummy baseline,1,543,1,0.0,0
+Dummy baseline,1,545,1,0.0,0
+Dummy baseline,2,1,0,0.0,0
+Dummy baseline,2,2,0,0.0,0
+Dummy baseline,2,5,0,0.0,0
+Dummy baseline,2,12,0,0.0,0
+Dummy baseline,2,16,0,0.0,0
+Dummy baseline,2,18,0,0.0,0
+Dummy baseline,2,25,0,0.0,0
+Dummy baseline,2,27,0,0.0,0
+Dummy baseline,2,28,0,0.0,0
+Dummy baseline,2,35,0,0.0,0
+Dummy baseline,2,37,0,0.0,0
+Dummy baseline,2,38,1,0.0,0
+Dummy baseline,2,42,1,0.0,0
+Dummy baseline,2,44,0,0.0,0
+Dummy baseline,2,45,0,0.0,0
+Dummy baseline,2,46,0,0.0,0
+Dummy baseline,2,54,0,0.0,0
+Dummy baseline,2,60,0,0.0,0
+Dummy baseline,2,75,0,0.0,0
+Dummy baseline,2,76,0,0.0,0
+Dummy baseline,2,81,0,0.0,0
+Dummy baseline,2,83,0,0.0,0
+Dummy baseline,2,90,0,0.0,0
+Dummy baseline,2,95,0,0.0,0
+Dummy baseline,2,97,0,0.0,0
+Dummy baseline,2,114,1,0.0,0
+Dummy baseline,2,117,0,0.0,0
+Dummy baseline,2,125,1,0.0,0
+Dummy baseline,2,133,0,0.0,0
+Dummy baseline,2,134,0,0.0,0
+Dummy baseline,2,142,0,0.0,0
+Dummy baseline,2,154,1,0.0,0
+Dummy baseline,2,157,0,0.0,0
+Dummy baseline,2,165,0,0.0,0
+Dummy baseline,2,166,0,0.0,0
+Dummy baseline,2,169,0,0.0,0
+Dummy baseline,2,171,1,0.0,0
+Dummy baseline,2,172,0,0.0,0
+Dummy baseline,2,180,0,0.0,0
+Dummy baseline,2,185,0,0.0,0
+Dummy baseline,2,188,0,0.0,0
+Dummy baseline,2,199,0,0.0,0
+Dummy baseline,2,204,0,0.0,0
+Dummy baseline,2,207,0,0.0,0
+Dummy baseline,2,212,1,0.0,0
+Dummy baseline,2,220,0,0.0,0
+Dummy baseline,2,223,1,0.0,0
+Dummy baseline,2,225,0,0.0,0
+Dummy baseline,2,228,0,0.0,0
+Dummy baseline,2,229,0,0.0,0
+Dummy baseline,2,232,0,0.0,0
+Dummy baseline,2,234,0,0.0,0
+Dummy baseline,2,238,0,0.0,0
+Dummy baseline,2,245,0,0.0,0
+Dummy baseline,2,247,0,0.0,0
+Dummy baseline,2,259,0,0.0,0
+Dummy baseline,2,263,0,0.0,0
+Dummy baseline,2,267,1,0.0,0
+Dummy baseline,2,269,1,0.0,0
+Dummy baseline,2,270,0,0.0,0
+Dummy baseline,2,272,0,0.0,0
+Dummy baseline,2,275,0,0.0,0
+Dummy baseline,2,286,0,0.0,0
+Dummy baseline,2,293,0,0.0,0
+Dummy baseline,2,294,1,0.0,0
+Dummy baseline,2,297,0,0.0,0
+Dummy baseline,2,315,1,0.0,0
+Dummy baseline,2,324,1,0.0,0
+Dummy baseline,2,325,0,0.0,0
+Dummy baseline,2,326,0,0.0,0
+Dummy baseline,2,332,1,0.0,0
+Dummy baseline,2,334,1,0.0,0
+Dummy baseline,2,338,1,0.0,0
+Dummy baseline,2,357,0,0.0,0
+Dummy baseline,2,365,1,0.0,0
+Dummy baseline,2,370,0,0.0,0
+Dummy baseline,2,383,0,0.0,0
+Dummy baseline,2,397,0,0.0,0
+Dummy baseline,2,406,1,0.0,0
+Dummy baseline,2,410,0,0.0,0
+Dummy baseline,2,422,1,0.0,0
+Dummy baseline,2,425,1,0.0,0
+Dummy baseline,2,435,1,0.0,0
+Dummy baseline,2,438,1,0.0,0
+Dummy baseline,2,441,1,0.0,0
+Dummy baseline,2,455,0,0.0,0
+Dummy baseline,2,456,1,0.0,0
+Dummy baseline,2,460,0,0.0,0
+Dummy baseline,2,463,0,0.0,0
+Dummy baseline,2,470,1,0.0,0
+Dummy baseline,2,475,0,0.0,0
+Dummy baseline,2,480,0,0.0,0
+Dummy baseline,2,482,0,0.0,0
+Dummy baseline,2,485,0,0.0,0
+Dummy baseline,2,494,1,0.0,0
+Dummy baseline,2,495,1,0.0,0
+Dummy baseline,2,497,1,0.0,0
+Dummy baseline,2,506,1,0.0,0
+Dummy baseline,2,509,1,0.0,0
+Dummy baseline,2,511,1,0.0,0
+Dummy baseline,2,512,1,0.0,0
+Dummy baseline,2,515,1,0.0,0
+Dummy baseline,2,518,1,0.0,0
+Dummy baseline,2,520,1,0.0,0
+Dummy baseline,2,523,1,0.0,0
+Dummy baseline,2,531,1,0.0,0
+Dummy baseline,2,535,1,0.0,0
+Dummy baseline,2,537,1,0.0,0
+Dummy baseline,2,541,1,0.0,0
+Dummy baseline,3,7,0,0.0,0
+Dummy baseline,3,8,0,0.0,0
+Dummy baseline,3,10,1,0.0,0
+Dummy baseline,3,17,0,0.0,0
+Dummy baseline,3,19,0,0.0,0
+Dummy baseline,3,20,0,0.0,0
+Dummy baseline,3,22,0,0.0,0
+Dummy baseline,3,26,0,0.0,0
+Dummy baseline,3,29,0,0.0,0
+Dummy baseline,3,30,0,0.0,0
+Dummy baseline,3,33,0,0.0,0
+Dummy baseline,3,51,0,0.0,0
+Dummy baseline,3,58,0,0.0,0
+Dummy baseline,3,62,0,0.0,0
+Dummy baseline,3,70,1,0.0,0
+Dummy baseline,3,73,0,0.0,0
+Dummy baseline,3,99,0,0.0,0
+Dummy baseline,3,104,0,0.0,0
+Dummy baseline,3,111,0,0.0,0
+Dummy baseline,3,115,0,0.0,0
+Dummy baseline,3,118,0,0.0,0
+Dummy baseline,3,120,0,0.0,0
+Dummy baseline,3,127,0,0.0,0
+Dummy baseline,3,130,1,0.0,0
+Dummy baseline,3,131,0,0.0,0
+Dummy baseline,3,159,0,0.0,0
+Dummy baseline,3,161,0,0.0,0
+Dummy baseline,3,162,0,0.0,0
+Dummy baseline,3,164,0,0.0,0
+Dummy baseline,3,174,0,0.0,0
+Dummy baseline,3,179,0,0.0,0
+Dummy baseline,3,184,1,0.0,0
+Dummy baseline,3,186,0,0.0,0
+Dummy baseline,3,187,0,0.0,0
+Dummy baseline,3,193,0,0.0,0
+Dummy baseline,3,197,0,0.0,0
+Dummy baseline,3,203,0,0.0,0
+Dummy baseline,3,213,0,0.0,0
+Dummy baseline,3,214,0,0.0,0
+Dummy baseline,3,216,0,0.0,0
+Dummy baseline,3,221,0,0.0,0
+Dummy baseline,3,222,1,0.0,0
+Dummy baseline,3,235,0,0.0,0
+Dummy baseline,3,237,0,0.0,0
+Dummy baseline,3,239,0,0.0,0
+Dummy baseline,3,246,0,0.0,0
+Dummy baseline,3,248,0,0.0,0
+Dummy baseline,3,255,0,0.0,0
+Dummy baseline,3,256,0,0.0,0
+Dummy baseline,3,258,1,0.0,0
+Dummy baseline,3,265,0,0.0,0
+Dummy baseline,3,268,0,0.0,0
+Dummy baseline,3,274,0,0.0,0
+Dummy baseline,3,278,0,0.0,0
+Dummy baseline,3,283,1,0.0,0
+Dummy baseline,3,288,0,0.0,0
+Dummy baseline,3,289,1,0.0,0
+Dummy baseline,3,295,0,0.0,0
+Dummy baseline,3,301,0,0.0,0
+Dummy baseline,3,310,1,0.0,0
+Dummy baseline,3,311,0,0.0,0
+Dummy baseline,3,318,1,0.0,0
+Dummy baseline,3,319,0,0.0,0
+Dummy baseline,3,321,0,0.0,0
+Dummy baseline,3,330,0,0.0,0
+Dummy baseline,3,349,0,0.0,0
+Dummy baseline,3,350,0,0.0,0
+Dummy baseline,3,355,0,0.0,0
+Dummy baseline,3,358,1,0.0,0
+Dummy baseline,3,372,1,0.0,0
+Dummy baseline,3,373,0,0.0,0
+Dummy baseline,3,378,1,0.0,0
+Dummy baseline,3,391,1,0.0,0
+Dummy baseline,3,393,1,0.0,0
+Dummy baseline,3,395,1,0.0,0
+Dummy baseline,3,398,1,0.0,0
+Dummy baseline,3,399,1,0.0,0
+Dummy baseline,3,407,0,0.0,0
+Dummy baseline,3,419,1,0.0,0
+Dummy baseline,3,423,0,0.0,0
+Dummy baseline,3,424,0,0.0,0
+Dummy baseline,3,427,1,0.0,0
+Dummy baseline,3,429,0,0.0,0
+Dummy baseline,3,430,0,0.0,0
+Dummy baseline,3,442,0,0.0,0
+Dummy baseline,3,447,0,0.0,0
+Dummy baseline,3,450,1,0.0,0
+Dummy baseline,3,453,1,0.0,0
+Dummy baseline,3,454,0,0.0,0
+Dummy baseline,3,457,0,0.0,0
+Dummy baseline,3,458,1,0.0,0
+Dummy baseline,3,461,1,0.0,0
+Dummy baseline,3,471,1,0.0,0
+Dummy baseline,3,473,1,0.0,0
+Dummy baseline,3,478,0,0.0,0
+Dummy baseline,3,487,1,0.0,0
+Dummy baseline,3,489,1,0.0,0
+Dummy baseline,3,491,1,0.0,0
+Dummy baseline,3,498,1,0.0,0
+Dummy baseline,3,499,1,0.0,0
+Dummy baseline,3,500,1,0.0,0
+Dummy baseline,3,502,1,0.0,0
+Dummy baseline,3,504,1,0.0,0
+Dummy baseline,3,508,1,0.0,0
+Dummy baseline,3,521,1,0.0,0
+Dummy baseline,3,524,1,0.0,0
+Dummy baseline,3,525,1,0.0,0
+Dummy baseline,3,527,1,0.0,0
+Dummy baseline,3,542,1,0.0,0
+Dummy baseline,4,0,0,0.0,0
+Dummy baseline,4,4,1,0.0,0
+Dummy baseline,4,13,0,0.0,0
+Dummy baseline,4,15,0,0.0,0
+Dummy baseline,4,36,0,0.0,0
+Dummy baseline,4,40,0,0.0,0
+Dummy baseline,4,48,0,0.0,0
+Dummy baseline,4,49,0,0.0,0
+Dummy baseline,4,53,0,0.0,0
+Dummy baseline,4,57,0,0.0,0
+Dummy baseline,4,59,0,0.0,0
+Dummy baseline,4,67,0,0.0,0
+Dummy baseline,4,72,0,0.0,0
+Dummy baseline,4,74,1,0.0,0
+Dummy baseline,4,87,1,0.0,0
+Dummy baseline,4,92,0,0.0,0
+Dummy baseline,4,96,0,0.0,0
+Dummy baseline,4,105,0,0.0,0
+Dummy baseline,4,106,0,0.0,0
+Dummy baseline,4,108,0,0.0,0
+Dummy baseline,4,110,0,0.0,0
+Dummy baseline,4,112,0,0.0,0
+Dummy baseline,4,116,1,0.0,0
+Dummy baseline,4,121,0,0.0,0
+Dummy baseline,4,123,0,0.0,0
+Dummy baseline,4,126,0,0.0,0
+Dummy baseline,4,128,0,0.0,0
+Dummy baseline,4,141,0,0.0,0
+Dummy baseline,4,150,0,0.0,0
+Dummy baseline,4,152,1,0.0,0
+Dummy baseline,4,153,1,0.0,0
+Dummy baseline,4,155,0,0.0,0
+Dummy baseline,4,163,0,0.0,0
+Dummy baseline,4,167,0,0.0,0
+Dummy baseline,4,168,1,0.0,0
+Dummy baseline,4,170,0,0.0,0
+Dummy baseline,4,183,0,0.0,0
+Dummy baseline,4,194,0,0.0,0
+Dummy baseline,4,198,0,0.0,0
+Dummy baseline,4,202,0,0.0,0
+Dummy baseline,4,206,0,0.0,0
+Dummy baseline,4,210,0,0.0,0
+Dummy baseline,4,215,0,0.0,0
+Dummy baseline,4,217,0,0.0,0
+Dummy baseline,4,224,0,0.0,0
+Dummy baseline,4,240,0,0.0,0
+Dummy baseline,4,244,0,0.0,0
+Dummy baseline,4,250,1,0.0,0
+Dummy baseline,4,257,0,0.0,0
+Dummy baseline,4,261,0,0.0,0
+Dummy baseline,4,264,0,0.0,0
+Dummy baseline,4,273,0,0.0,0
+Dummy baseline,4,287,0,0.0,0
+Dummy baseline,4,291,0,0.0,0
+Dummy baseline,4,292,0,0.0,0
+Dummy baseline,4,299,0,0.0,0
+Dummy baseline,4,302,0,0.0,0
+Dummy baseline,4,316,0,0.0,0
+Dummy baseline,4,337,0,0.0,0
+Dummy baseline,4,340,0,0.0,0
+Dummy baseline,4,341,0,0.0,0
+Dummy baseline,4,342,0,0.0,0
+Dummy baseline,4,344,0,0.0,0
+Dummy baseline,4,347,0,0.0,0
+Dummy baseline,4,348,1,0.0,0
+Dummy baseline,4,351,1,0.0,0
+Dummy baseline,4,354,0,0.0,0
+Dummy baseline,4,356,0,0.0,0
+Dummy baseline,4,369,1,0.0,0
+Dummy baseline,4,374,1,0.0,0
+Dummy baseline,4,375,1,0.0,0
+Dummy baseline,4,379,0,0.0,0
+Dummy baseline,4,381,1,0.0,0
+Dummy baseline,4,385,1,0.0,0
+Dummy baseline,4,388,0,0.0,0
+Dummy baseline,4,390,0,0.0,0
+Dummy baseline,4,392,1,0.0,0
+Dummy baseline,4,394,1,0.0,0
+Dummy baseline,4,400,1,0.0,0
+Dummy baseline,4,401,1,0.0,0
+Dummy baseline,4,402,1,0.0,0
+Dummy baseline,4,403,1,0.0,0
+Dummy baseline,4,404,0,0.0,0
+Dummy baseline,4,417,0,0.0,0
+Dummy baseline,4,433,0,0.0,0
+Dummy baseline,4,434,0,0.0,0
+Dummy baseline,4,437,1,0.0,0
+Dummy baseline,4,440,1,0.0,0
+Dummy baseline,4,445,1,0.0,0
+Dummy baseline,4,446,1,0.0,0
+Dummy baseline,4,448,1,0.0,0
+Dummy baseline,4,451,0,0.0,0
+Dummy baseline,4,459,1,0.0,0
+Dummy baseline,4,465,1,0.0,0
+Dummy baseline,4,466,1,0.0,0
+Dummy baseline,4,467,1,0.0,0
+Dummy baseline,4,468,1,0.0,0
+Dummy baseline,4,474,0,0.0,0
+Dummy baseline,4,484,0,0.0,0
+Dummy baseline,4,488,1,0.0,0
+Dummy baseline,4,490,1,0.0,0
+Dummy baseline,4,516,1,0.0,0
+Dummy baseline,4,517,1,0.0,0
+Dummy baseline,4,526,1,0.0,0
+Dummy baseline,4,528,1,0.0,0
+Dummy baseline,4,529,1,0.0,0
+Dummy baseline,4,536,1,0.0,0
+Dummy baseline,4,539,1,0.0,0
+Dummy baseline,4,540,1,0.0,0
+Dummy baseline,5,6,0,0.0,0
+Dummy baseline,5,9,0,0.0,0
+Dummy baseline,5,14,0,0.0,0
+Dummy baseline,5,24,0,0.0,0
+Dummy baseline,5,31,0,0.0,0
+Dummy baseline,5,41,0,0.0,0
+Dummy baseline,5,43,1,0.0,0
+Dummy baseline,5,52,0,0.0,0
+Dummy baseline,5,56,1,0.0,0
+Dummy baseline,5,64,0,0.0,0
+Dummy baseline,5,65,0,0.0,0
+Dummy baseline,5,68,0,0.0,0
+Dummy baseline,5,71,0,0.0,0
+Dummy baseline,5,80,1,0.0,0
+Dummy baseline,5,84,0,0.0,0
+Dummy baseline,5,85,0,0.0,0
+Dummy baseline,5,86,1,0.0,0
+Dummy baseline,5,88,0,0.0,0
+Dummy baseline,5,91,0,0.0,0
+Dummy baseline,5,93,0,0.0,0
+Dummy baseline,5,98,0,0.0,0
+Dummy baseline,5,102,0,0.0,0
+Dummy baseline,5,103,1,0.0,0
+Dummy baseline,5,107,0,0.0,0
+Dummy baseline,5,124,1,0.0,0
+Dummy baseline,5,129,0,0.0,0
+Dummy baseline,5,140,0,0.0,0
+Dummy baseline,5,143,1,0.0,0
+Dummy baseline,5,144,1,0.0,0
+Dummy baseline,5,147,0,0.0,0
+Dummy baseline,5,148,0,0.0,0
+Dummy baseline,5,156,0,0.0,0
+Dummy baseline,5,160,0,0.0,0
+Dummy baseline,5,182,0,0.0,0
+Dummy baseline,5,189,0,0.0,0
+Dummy baseline,5,191,0,0.0,0
+Dummy baseline,5,192,0,0.0,0
+Dummy baseline,5,195,0,0.0,0
+Dummy baseline,5,196,0,0.0,0
+Dummy baseline,5,201,0,0.0,0
+Dummy baseline,5,205,0,0.0,0
+Dummy baseline,5,208,0,0.0,0
+Dummy baseline,5,209,0,0.0,0
+Dummy baseline,5,211,0,0.0,0
+Dummy baseline,5,226,0,0.0,0
+Dummy baseline,5,227,0,0.0,0
+Dummy baseline,5,230,0,0.0,0
+Dummy baseline,5,233,0,0.0,0
+Dummy baseline,5,236,1,0.0,0
+Dummy baseline,5,242,0,0.0,0
+Dummy baseline,5,249,1,0.0,0
+Dummy baseline,5,254,1,0.0,0
+Dummy baseline,5,266,1,0.0,0
+Dummy baseline,5,277,0,0.0,0
+Dummy baseline,5,279,0,0.0,0
+Dummy baseline,5,282,0,0.0,0
+Dummy baseline,5,284,0,0.0,0
+Dummy baseline,5,285,0,0.0,0
+Dummy baseline,5,290,0,0.0,0
+Dummy baseline,5,304,1,0.0,0
+Dummy baseline,5,305,1,0.0,0
+Dummy baseline,5,307,0,0.0,0
+Dummy baseline,5,309,0,0.0,0
+Dummy baseline,5,312,0,0.0,0
+Dummy baseline,5,314,0,0.0,0
+Dummy baseline,5,317,1,0.0,0
+Dummy baseline,5,320,0,0.0,0
+Dummy baseline,5,335,0,0.0,0
+Dummy baseline,5,336,0,0.0,0
+Dummy baseline,5,339,0,0.0,0
+Dummy baseline,5,343,0,0.0,0
+Dummy baseline,5,345,0,0.0,0
+Dummy baseline,5,346,0,0.0,0
+Dummy baseline,5,353,1,0.0,0
+Dummy baseline,5,362,1,0.0,0
+Dummy baseline,5,366,1,0.0,0
+Dummy baseline,5,377,1,0.0,0
+Dummy baseline,5,380,1,0.0,0
+Dummy baseline,5,382,1,0.0,0
+Dummy baseline,5,389,1,0.0,0
+Dummy baseline,5,405,1,0.0,0
+Dummy baseline,5,408,0,0.0,0
+Dummy baseline,5,411,1,0.0,0
+Dummy baseline,5,412,0,0.0,0
+Dummy baseline,5,413,0,0.0,0
+Dummy baseline,5,414,1,0.0,0
+Dummy baseline,5,415,1,0.0,0
+Dummy baseline,5,416,1,0.0,0
+Dummy baseline,5,421,1,0.0,0
+Dummy baseline,5,426,0,0.0,0
+Dummy baseline,5,439,0,0.0,0
+Dummy baseline,5,444,0,0.0,0
+Dummy baseline,5,449,0,0.0,0
+Dummy baseline,5,452,0,0.0,0
+Dummy baseline,5,472,0,0.0,0
+Dummy baseline,5,476,0,0.0,0
+Dummy baseline,5,479,1,0.0,0
+Dummy baseline,5,481,1,0.0,0
+Dummy baseline,5,486,1,0.0,0
+Dummy baseline,5,492,1,0.0,0
+Dummy baseline,5,493,1,0.0,0
+Dummy baseline,5,496,1,0.0,0
+Dummy baseline,5,505,1,0.0,0
+Dummy baseline,5,507,1,0.0,0
+Dummy baseline,5,513,1,0.0,0
+Dummy baseline,5,514,1,0.0,0
+Dummy baseline,5,519,1,0.0,0
+Dummy baseline,5,533,1,0.0,0
+Dummy baseline,5,544,1,0.0,0
+Word TF-IDF + logistic,1,3,0,0.4466734164167995,0
+Word TF-IDF + logistic,1,11,0,0.462708112643906,0
+Word TF-IDF + logistic,1,21,0,0.30244520435749606,0
+Word TF-IDF + logistic,1,23,0,0.4786502040040391,0
+Word TF-IDF + logistic,1,32,1,0.5321707644028422,1
+Word TF-IDF + logistic,1,34,0,0.23102775576481893,0
+Word TF-IDF + logistic,1,39,0,0.27151083990234687,0
+Word TF-IDF + logistic,1,47,0,0.321622276876806,0
+Word TF-IDF + logistic,1,50,0,0.31208444418284753,0
+Word TF-IDF + logistic,1,55,0,0.3148680941677723,0
+Word TF-IDF + logistic,1,61,0,0.3200935029804269,0
+Word TF-IDF + logistic,1,63,0,0.3803830367065357,0
+Word TF-IDF + logistic,1,66,0,0.3837299054962367,0
+Word TF-IDF + logistic,1,69,1,0.7221786155703954,1
+Word TF-IDF + logistic,1,77,0,0.26920895402584577,0
+Word TF-IDF + logistic,1,78,1,0.7378042347536868,1
+Word TF-IDF + logistic,1,79,0,0.3021661679756405,0
+Word TF-IDF + logistic,1,82,0,0.3617156414287772,0
+Word TF-IDF + logistic,1,89,1,0.5597949644335976,1
+Word TF-IDF + logistic,1,94,0,0.4427101386916213,0
+Word TF-IDF + logistic,1,100,0,0.31520321407027,0
+Word TF-IDF + logistic,1,101,0,0.4206571310538044,0
+Word TF-IDF + logistic,1,109,1,0.7921177626115957,1
+Word TF-IDF + logistic,1,113,0,0.2772394884182626,0
+Word TF-IDF + logistic,1,119,0,0.3126332690039372,0
+Word TF-IDF + logistic,1,122,0,0.3048614229147512,0
+Word TF-IDF + logistic,1,132,0,0.4371103480556187,0
+Word TF-IDF + logistic,1,135,1,0.5066006437562638,1
+Word TF-IDF + logistic,1,136,0,0.4318893768170017,0
+Word TF-IDF + logistic,1,137,1,0.7135621963409953,1
+Word TF-IDF + logistic,1,138,1,0.7257155183058355,1
+Word TF-IDF + logistic,1,139,0,0.2520818419056353,0
+Word TF-IDF + logistic,1,145,0,0.47009943896169454,0
+Word TF-IDF + logistic,1,146,0,0.4300142012407513,0
+Word TF-IDF + logistic,1,149,0,0.4207529123650953,0
+Word TF-IDF + logistic,1,151,0,0.4760566255969279,0
+Word TF-IDF + logistic,1,158,1,0.6804715243143292,1
+Word TF-IDF + logistic,1,173,1,0.7631725494952826,1
+Word TF-IDF + logistic,1,175,0,0.46086955706391664,0
+Word TF-IDF + logistic,1,176,0,0.3579728136421056,0
+Word TF-IDF + logistic,1,177,0,0.45894360580389143,0
+Word TF-IDF + logistic,1,178,1,0.5254198800262003,1
+Word TF-IDF + logistic,1,181,0,0.3242345672984699,0
+Word TF-IDF + logistic,1,190,1,0.5850189740975424,1
+Word TF-IDF + logistic,1,200,0,0.31925048991167787,0
+Word TF-IDF + logistic,1,218,1,0.6089502770544611,1
+Word TF-IDF + logistic,1,219,0,0.22191534758043605,0
+Word TF-IDF + logistic,1,231,0,0.34803645798511323,0
+Word TF-IDF + logistic,1,241,0,0.38305071868374924,0
+Word TF-IDF + logistic,1,243,0,0.3872109278878156,0
+Word TF-IDF + logistic,1,251,0,0.2912159135327476,0
+Word TF-IDF + logistic,1,252,0,0.38466661387647116,0
+Word TF-IDF + logistic,1,253,0,0.3854227412765806,0
+Word TF-IDF + logistic,1,260,1,0.7125141082834751,1
+Word TF-IDF + logistic,1,262,0,0.28345020428040657,0
+Word TF-IDF + logistic,1,271,0,0.3540942074935808,0
+Word TF-IDF + logistic,1,276,0,0.22713834308386932,0
+Word TF-IDF + logistic,1,280,0,0.14879799890964354,0
+Word TF-IDF + logistic,1,281,0,0.4194616633557365,0
+Word TF-IDF + logistic,1,296,1,0.6469730054705596,1
+Word TF-IDF + logistic,1,298,0,0.34344782083403197,0
+Word TF-IDF + logistic,1,300,0,0.42024601822236346,0
+Word TF-IDF + logistic,1,303,0,0.1996641920638531,0
+Word TF-IDF + logistic,1,306,0,0.3973626590407685,0
+Word TF-IDF + logistic,1,308,0,0.31766390062417527,0
+Word TF-IDF + logistic,1,313,0,0.17240534253814785,0
+Word TF-IDF + logistic,1,322,0,0.31620760984499013,0
+Word TF-IDF + logistic,1,323,1,0.722577009388133,1
+Word TF-IDF + logistic,1,327,0,0.38271735028813,0
+Word TF-IDF + logistic,1,328,0,0.33590041159223655,0
+Word TF-IDF + logistic,1,329,0,0.4884523121591446,0
+Word TF-IDF + logistic,1,331,0,0.3027763721476516,0
+Word TF-IDF + logistic,1,333,1,0.7166244588835227,1
+Word TF-IDF + logistic,1,352,0,0.6539056340458154,1
+Word TF-IDF + logistic,1,359,0,0.21484473760001283,0
+Word TF-IDF + logistic,1,360,1,0.5074319897341456,1
+Word TF-IDF + logistic,1,361,0,0.33612489462489453,0
+Word TF-IDF + logistic,1,363,1,0.487574084157174,0
+Word TF-IDF + logistic,1,364,0,0.3237838868524646,0
+Word TF-IDF + logistic,1,367,1,0.4567003812802671,0
+Word TF-IDF + logistic,1,368,1,0.40955938748324616,0
+Word TF-IDF + logistic,1,371,1,0.6795612589630009,1
+Word TF-IDF + logistic,1,376,0,0.5175231182978811,1
+Word TF-IDF + logistic,1,384,1,0.7011373036231981,1
+Word TF-IDF + logistic,1,386,1,0.5303475158444824,1
+Word TF-IDF + logistic,1,387,0,0.3700950835832895,0
+Word TF-IDF + logistic,1,396,0,0.446274019837554,0
+Word TF-IDF + logistic,1,409,1,0.6269564294744308,1
+Word TF-IDF + logistic,1,418,0,0.22164395072517265,0
+Word TF-IDF + logistic,1,420,0,0.5247838599910357,1
+Word TF-IDF + logistic,1,428,1,0.8063025779450309,1
+Word TF-IDF + logistic,1,431,0,0.4125794471718696,0
+Word TF-IDF + logistic,1,432,0,0.4079836196491794,0
+Word TF-IDF + logistic,1,436,0,0.3254503868043531,0
+Word TF-IDF + logistic,1,443,1,0.6324646221307636,1
+Word TF-IDF + logistic,1,462,1,0.7334149209521671,1
+Word TF-IDF + logistic,1,464,1,0.6621140160518251,1
+Word TF-IDF + logistic,1,469,1,0.35559484855542023,0
+Word TF-IDF + logistic,1,477,0,0.47138376601655624,0
+Word TF-IDF + logistic,1,483,1,0.8098367059226429,1
+Word TF-IDF + logistic,1,501,1,0.6113747481622014,1
+Word TF-IDF + logistic,1,503,1,0.5160810793310335,1
+Word TF-IDF + logistic,1,510,1,0.4688476498720359,0
+Word TF-IDF + logistic,1,522,1,0.3854227412765806,0
+Word TF-IDF + logistic,1,530,1,0.6842542924222826,1
+Word TF-IDF + logistic,1,532,1,0.31099162976791433,0
+Word TF-IDF + logistic,1,534,1,0.5637221590731551,1
+Word TF-IDF + logistic,1,538,1,0.6325142961264407,1
+Word TF-IDF + logistic,1,543,1,0.44528034940467587,0
+Word TF-IDF + logistic,1,545,1,0.4259705441377526,0
+Word TF-IDF + logistic,2,1,0,0.30553127174657624,0
+Word TF-IDF + logistic,2,2,0,0.22673472704267292,0
+Word TF-IDF + logistic,2,5,0,0.38386174017490005,0
+Word TF-IDF + logistic,2,12,0,0.262290769926328,0
+Word TF-IDF + logistic,2,16,0,0.25038847036583256,0
+Word TF-IDF + logistic,2,18,0,0.2825538165992651,0
+Word TF-IDF + logistic,2,25,0,0.2719724698177114,0
+Word TF-IDF + logistic,2,27,0,0.23742358336546276,0
+Word TF-IDF + logistic,2,28,0,0.2568890578440631,0
+Word TF-IDF + logistic,2,35,0,0.42722763734154456,0
+Word TF-IDF + logistic,2,37,0,0.4479290393763798,0
+Word TF-IDF + logistic,2,38,1,0.7418449660880944,1
+Word TF-IDF + logistic,2,42,1,0.7540992623369641,1
+Word TF-IDF + logistic,2,44,0,0.4744831631799324,0
+Word TF-IDF + logistic,2,45,0,0.4363400389354205,0
+Word TF-IDF + logistic,2,46,0,0.31614857573095745,0
+Word TF-IDF + logistic,2,54,0,0.3918025065930347,0
+Word TF-IDF + logistic,2,60,0,0.2678026169647161,0
+Word TF-IDF + logistic,2,75,0,0.22984992831107098,0
+Word TF-IDF + logistic,2,76,0,0.45263436716852967,0
+Word TF-IDF + logistic,2,81,0,0.2678026169647161,0
+Word TF-IDF + logistic,2,83,0,0.38179051558563454,0
+Word TF-IDF + logistic,2,90,0,0.2678026169647161,0
+Word TF-IDF + logistic,2,95,0,0.20134007080044677,0
+Word TF-IDF + logistic,2,97,0,0.32835659328399686,0
+Word TF-IDF + logistic,2,114,1,0.5425050217849653,1
+Word TF-IDF + logistic,2,117,0,0.23171604606441443,0
+Word TF-IDF + logistic,2,125,1,0.608750067489899,1
+Word TF-IDF + logistic,2,133,0,0.44120405510263,0
+Word TF-IDF + logistic,2,134,0,0.34650161375546373,0
+Word TF-IDF + logistic,2,142,0,0.22698709267001552,0
+Word TF-IDF + logistic,2,154,1,0.7591123775882804,1
+Word TF-IDF + logistic,2,157,0,0.3004376420063445,0
+Word TF-IDF + logistic,2,165,0,0.2555433546304317,0
+Word TF-IDF + logistic,2,166,0,0.4176426394819564,0
+Word TF-IDF + logistic,2,169,0,0.3437550693571052,0
+Word TF-IDF + logistic,2,171,1,0.4361635640044936,0
+Word TF-IDF + logistic,2,172,0,0.6283708809740877,1
+Word TF-IDF + logistic,2,180,0,0.19569291062915214,0
+Word TF-IDF + logistic,2,185,0,0.3090874958797808,0
+Word TF-IDF + logistic,2,188,0,0.27503343087155097,0
+Word TF-IDF + logistic,2,199,0,0.32287051669137135,0
+Word TF-IDF + logistic,2,204,0,0.3171148819244057,0
+Word TF-IDF + logistic,2,207,0,0.21968788581467566,0
+Word TF-IDF + logistic,2,212,1,0.6493848212600217,1
+Word TF-IDF + logistic,2,220,0,0.23583867530936853,0
+Word TF-IDF + logistic,2,223,1,0.6450948749568092,1
+Word TF-IDF + logistic,2,225,0,0.2944298816510128,0
+Word TF-IDF + logistic,2,228,0,0.28213383539292136,0
+Word TF-IDF + logistic,2,229,0,0.41455759484842936,0
+Word TF-IDF + logistic,2,232,0,0.28665861440407114,0
+Word TF-IDF + logistic,2,234,0,0.3822519833383118,0
+Word TF-IDF + logistic,2,238,0,0.2324521953318574,0
+Word TF-IDF + logistic,2,245,0,0.23349650316710502,0
+Word TF-IDF + logistic,2,247,0,0.27079148613452625,0
+Word TF-IDF + logistic,2,259,0,0.1695721407730704,0
+Word TF-IDF + logistic,2,263,0,0.21903708447244216,0
+Word TF-IDF + logistic,2,267,1,0.49208769645313594,0
+Word TF-IDF + logistic,2,269,1,0.44732577107979143,0
+Word TF-IDF + logistic,2,270,0,0.19569291062915214,0
+Word TF-IDF + logistic,2,272,0,0.1695721407730704,0
+Word TF-IDF + logistic,2,275,0,0.1695721407730704,0
+Word TF-IDF + logistic,2,286,0,0.20414240971180111,0
+Word TF-IDF + logistic,2,293,0,0.1695721407730704,0
+Word TF-IDF + logistic,2,294,1,0.368137949508568,0
+Word TF-IDF + logistic,2,297,0,0.2925527578088996,0
+Word TF-IDF + logistic,2,315,1,0.4827372308284208,0
+Word TF-IDF + logistic,2,324,1,0.4966114359025597,0
+Word TF-IDF + logistic,2,325,0,0.2446808216592585,0
+Word TF-IDF + logistic,2,326,0,0.3558286363871519,0
+Word TF-IDF + logistic,2,332,1,0.5725262727483365,1
+Word TF-IDF + logistic,2,334,1,0.7320220903577552,1
+Word TF-IDF + logistic,2,338,1,0.6839176404703022,1
+Word TF-IDF + logistic,2,357,0,0.30160380220111727,0
+Word TF-IDF + logistic,2,365,1,0.6537884785811582,1
+Word TF-IDF + logistic,2,370,0,0.33677810974188926,0
+Word TF-IDF + logistic,2,383,0,0.3950078625150688,0
+Word TF-IDF + logistic,2,397,0,0.5568178151836091,1
+Word TF-IDF + logistic,2,406,1,0.6670663496821662,1
+Word TF-IDF + logistic,2,410,0,0.3828595499873994,0
+Word TF-IDF + logistic,2,422,1,0.3975488998303467,0
+Word TF-IDF + logistic,2,425,1,0.664613698368073,1
+Word TF-IDF + logistic,2,435,1,0.3858164337100384,0
+Word TF-IDF + logistic,2,438,1,0.6383560100367687,1
+Word TF-IDF + logistic,2,441,1,0.5873428583965398,1
+Word TF-IDF + logistic,2,455,0,0.6027469088229105,1
+Word TF-IDF + logistic,2,456,1,0.55933064195344,1
+Word TF-IDF + logistic,2,460,0,0.3988594444020002,0
+Word TF-IDF + logistic,2,463,0,0.33938917066011165,0
+Word TF-IDF + logistic,2,470,1,0.40961536987532965,0
+Word TF-IDF + logistic,2,475,0,0.3801589469120406,0
+Word TF-IDF + logistic,2,480,0,0.8050068969073473,1
+Word TF-IDF + logistic,2,482,0,0.1966939361371793,0
+Word TF-IDF + logistic,2,485,0,0.45719092900861097,0
+Word TF-IDF + logistic,2,494,1,0.5879483903655084,1
+Word TF-IDF + logistic,2,495,1,0.4121393620950017,0
+Word TF-IDF + logistic,2,497,1,0.5527355167401046,1
+Word TF-IDF + logistic,2,506,1,0.7432988926363868,1
+Word TF-IDF + logistic,2,509,1,0.4278627126470313,0
+Word TF-IDF + logistic,2,511,1,0.6647425096066129,1
+Word TF-IDF + logistic,2,512,1,0.5997800430168376,1
+Word TF-IDF + logistic,2,515,1,0.6753081569333254,1
+Word TF-IDF + logistic,2,518,1,0.36179784822699523,0
+Word TF-IDF + logistic,2,520,1,0.7535079168014274,1
+Word TF-IDF + logistic,2,523,1,0.6116993312214257,1
+Word TF-IDF + logistic,2,531,1,0.5226119424853531,1
+Word TF-IDF + logistic,2,535,1,0.3788344592654147,0
+Word TF-IDF + logistic,2,537,1,0.4845497934616528,0
+Word TF-IDF + logistic,2,541,1,0.5177049493045625,1
+Word TF-IDF + logistic,3,7,0,0.4152509781568524,0
+Word TF-IDF + logistic,3,8,0,0.2682739038385874,0
+Word TF-IDF + logistic,3,10,1,0.7494394915450125,1
+Word TF-IDF + logistic,3,17,0,0.399528410976091,0
+Word TF-IDF + logistic,3,19,0,0.40733343856138043,0
+Word TF-IDF + logistic,3,20,0,0.3394778539842721,0
+Word TF-IDF + logistic,3,22,0,0.446655935890263,0
+Word TF-IDF + logistic,3,26,0,0.24651451704007704,0
+Word TF-IDF + logistic,3,29,0,0.29629853332993356,0
+Word TF-IDF + logistic,3,30,0,0.27198670838693567,0
+Word TF-IDF + logistic,3,33,0,0.24896549327249795,0
+Word TF-IDF + logistic,3,51,0,0.3471438281010079,0
+Word TF-IDF + logistic,3,58,0,0.3149324958290974,0
+Word TF-IDF + logistic,3,62,0,0.45942244199088417,0
+Word TF-IDF + logistic,3,70,1,0.7498215524147609,1
+Word TF-IDF + logistic,3,73,0,0.517400418850866,1
+Word TF-IDF + logistic,3,99,0,0.20879351778438518,0
+Word TF-IDF + logistic,3,104,0,0.3030412044426499,0
+Word TF-IDF + logistic,3,111,0,0.4226673411124236,0
+Word TF-IDF + logistic,3,115,0,0.27383637706819297,0
+Word TF-IDF + logistic,3,118,0,0.37099459231012255,0
+Word TF-IDF + logistic,3,120,0,0.5402179564612671,1
+Word TF-IDF + logistic,3,127,0,0.5189341594177143,1
+Word TF-IDF + logistic,3,130,1,0.7057026339417443,1
+Word TF-IDF + logistic,3,131,0,0.2769022908712614,0
+Word TF-IDF + logistic,3,159,0,0.3189263482975058,0
+Word TF-IDF + logistic,3,161,0,0.3377053939314233,0
+Word TF-IDF + logistic,3,162,0,0.3116831592199947,0
+Word TF-IDF + logistic,3,164,0,0.29955541040606876,0
+Word TF-IDF + logistic,3,174,0,0.353039507619964,0
+Word TF-IDF + logistic,3,179,0,0.45450274751481556,0
+Word TF-IDF + logistic,3,184,1,0.7418165626715985,1
+Word TF-IDF + logistic,3,186,0,0.3163703671183785,0
+Word TF-IDF + logistic,3,187,0,0.2659463657946376,0
+Word TF-IDF + logistic,3,193,0,0.4299621923703356,0
+Word TF-IDF + logistic,3,197,0,0.30089756088339364,0
+Word TF-IDF + logistic,3,203,0,0.4867477561509422,0
+Word TF-IDF + logistic,3,213,0,0.33448976265749786,0
+Word TF-IDF + logistic,3,214,0,0.25586772301832933,0
+Word TF-IDF + logistic,3,216,0,0.4018080260959922,0
+Word TF-IDF + logistic,3,221,0,0.4699648957863505,0
+Word TF-IDF + logistic,3,222,1,0.5099592024722576,1
+Word TF-IDF + logistic,3,235,0,0.2795066591417885,0
+Word TF-IDF + logistic,3,237,0,0.36511061050515964,0
+Word TF-IDF + logistic,3,239,0,0.2589543437943941,0
+Word TF-IDF + logistic,3,246,0,0.2559072407690714,0
+Word TF-IDF + logistic,3,248,0,0.369114787291132,0
+Word TF-IDF + logistic,3,255,0,0.30085486126836003,0
+Word TF-IDF + logistic,3,256,0,0.3419752363647835,0
+Word TF-IDF + logistic,3,258,1,0.6846676907224015,1
+Word TF-IDF + logistic,3,265,0,0.19840079793021262,0
+Word TF-IDF + logistic,3,268,0,0.4543170726139839,0
+Word TF-IDF + logistic,3,274,0,0.3714234741399739,0
+Word TF-IDF + logistic,3,278,0,0.4747295883722071,0
+Word TF-IDF + logistic,3,283,1,0.6431527841750255,1
+Word TF-IDF + logistic,3,288,0,0.4096885803059968,0
+Word TF-IDF + logistic,3,289,1,0.6525618086992063,1
+Word TF-IDF + logistic,3,295,0,0.1806358376161866,0
+Word TF-IDF + logistic,3,301,0,0.26343379895336444,0
+Word TF-IDF + logistic,3,310,1,0.7285491233214004,1
+Word TF-IDF + logistic,3,311,0,0.22479556213369364,0
+Word TF-IDF + logistic,3,318,1,0.566956561098966,1
+Word TF-IDF + logistic,3,319,0,0.26015248473446406,0
+Word TF-IDF + logistic,3,321,0,0.2517083878530558,0
+Word TF-IDF + logistic,3,330,0,0.3226009240964311,0
+Word TF-IDF + logistic,3,349,0,0.3104824274964368,0
+Word TF-IDF + logistic,3,350,0,0.3251186438042894,0
+Word TF-IDF + logistic,3,355,0,0.3082213661036461,0
+Word TF-IDF + logistic,3,358,1,0.7133257259929018,1
+Word TF-IDF + logistic,3,372,1,0.7050142800819714,1
+Word TF-IDF + logistic,3,373,0,0.3552516761067764,0
+Word TF-IDF + logistic,3,378,1,0.7528167012874155,1
+Word TF-IDF + logistic,3,391,1,0.7487395988158448,1
+Word TF-IDF + logistic,3,393,1,0.5424158768845853,1
+Word TF-IDF + logistic,3,395,1,0.42527122159843267,0
+Word TF-IDF + logistic,3,398,1,0.5857201251509869,1
+Word TF-IDF + logistic,3,399,1,0.7839868705973102,1
+Word TF-IDF + logistic,3,407,0,0.4382845827479312,0
+Word TF-IDF + logistic,3,419,1,0.6686128738233752,1
+Word TF-IDF + logistic,3,423,0,0.597064551266295,1
+Word TF-IDF + logistic,3,424,0,0.2902287229799167,0
+Word TF-IDF + logistic,3,427,1,0.676903021639976,1
+Word TF-IDF + logistic,3,429,0,0.3749156477950393,0
+Word TF-IDF + logistic,3,430,0,0.535083476331316,1
+Word TF-IDF + logistic,3,442,0,0.4944137830303782,0
+Word TF-IDF + logistic,3,447,0,0.44382124032393716,0
+Word TF-IDF + logistic,3,450,1,0.7251019341825584,1
+Word TF-IDF + logistic,3,453,1,0.6432558088483021,1
+Word TF-IDF + logistic,3,454,0,0.40007506926816205,0
+Word TF-IDF + logistic,3,457,0,0.3875218896284068,0
+Word TF-IDF + logistic,3,458,1,0.6956248287323705,1
+Word TF-IDF + logistic,3,461,1,0.38653594675076225,0
+Word TF-IDF + logistic,3,471,1,0.6845563569971239,1
+Word TF-IDF + logistic,3,473,1,0.5774084719278888,1
+Word TF-IDF + logistic,3,478,0,0.35387778875394765,0
+Word TF-IDF + logistic,3,487,1,0.38656058926840936,0
+Word TF-IDF + logistic,3,489,1,0.5885212446977887,1
+Word TF-IDF + logistic,3,491,1,0.6404905869109873,1
+Word TF-IDF + logistic,3,498,1,0.6965469290156662,1
+Word TF-IDF + logistic,3,499,1,0.6497341886682905,1
+Word TF-IDF + logistic,3,500,1,0.8109521062653569,1
+Word TF-IDF + logistic,3,502,1,0.5371074983537801,1
+Word TF-IDF + logistic,3,504,1,0.5621201401217818,1
+Word TF-IDF + logistic,3,508,1,0.6837580023081613,1
+Word TF-IDF + logistic,3,521,1,0.42425142954787054,0
+Word TF-IDF + logistic,3,524,1,0.7068656517577737,1
+Word TF-IDF + logistic,3,525,1,0.5963929883991329,1
+Word TF-IDF + logistic,3,527,1,0.3681105926868735,0
+Word TF-IDF + logistic,3,542,1,0.5029035728025784,1
+Word TF-IDF + logistic,4,0,0,0.18614375068024297,0
+Word TF-IDF + logistic,4,4,1,0.7718187163109355,1
+Word TF-IDF + logistic,4,13,0,0.4011784289584177,0
+Word TF-IDF + logistic,4,15,0,0.4290300713782988,0
+Word TF-IDF + logistic,4,36,0,0.3992072552365432,0
+Word TF-IDF + logistic,4,40,0,0.2516764527451273,0
+Word TF-IDF + logistic,4,48,0,0.4762425648545378,0
+Word TF-IDF + logistic,4,49,0,0.41787316376041195,0
+Word TF-IDF + logistic,4,53,0,0.3285750402926326,0
+Word TF-IDF + logistic,4,57,0,0.42904286470750375,0
+Word TF-IDF + logistic,4,59,0,0.43942408146698547,0
+Word TF-IDF + logistic,4,67,0,0.27812953436181964,0
+Word TF-IDF + logistic,4,72,0,0.3136406086058767,0
+Word TF-IDF + logistic,4,74,1,0.7956136661709436,1
+Word TF-IDF + logistic,4,87,1,0.6077986570997126,1
+Word TF-IDF + logistic,4,92,0,0.20308839242289287,0
+Word TF-IDF + logistic,4,96,0,0.1908996934663316,0
+Word TF-IDF + logistic,4,105,0,0.2517042358762003,0
+Word TF-IDF + logistic,4,106,0,0.3571867640244904,0
+Word TF-IDF + logistic,4,108,0,0.2840579480529506,0
+Word TF-IDF + logistic,4,110,0,0.4690138225874949,0
+Word TF-IDF + logistic,4,112,0,0.23231101516345623,0
+Word TF-IDF + logistic,4,116,1,0.6678813755450916,1
+Word TF-IDF + logistic,4,121,0,0.42955730890641425,0
+Word TF-IDF + logistic,4,123,0,0.2905536419654434,0
+Word TF-IDF + logistic,4,126,0,0.45061724096707206,0
+Word TF-IDF + logistic,4,128,0,0.3913414748874082,0
+Word TF-IDF + logistic,4,141,0,0.506337070706332,1
+Word TF-IDF + logistic,4,150,0,0.3251046542749128,0
+Word TF-IDF + logistic,4,152,1,0.7126631186197158,1
+Word TF-IDF + logistic,4,153,1,0.8092096876125264,1
+Word TF-IDF + logistic,4,155,0,0.43366907320387504,0
+Word TF-IDF + logistic,4,163,0,0.28629503115019833,0
+Word TF-IDF + logistic,4,167,0,0.48606164256915924,0
+Word TF-IDF + logistic,4,168,1,0.6539215046060236,1
+Word TF-IDF + logistic,4,170,0,0.3374593082774636,0
+Word TF-IDF + logistic,4,183,0,0.34854893858957836,0
+Word TF-IDF + logistic,4,194,0,0.5162931106800174,1
+Word TF-IDF + logistic,4,198,0,0.24509202972500624,0
+Word TF-IDF + logistic,4,202,0,0.40060689938092775,0
+Word TF-IDF + logistic,4,206,0,0.3194821605790313,0
+Word TF-IDF + logistic,4,210,0,0.24003231452677784,0
+Word TF-IDF + logistic,4,215,0,0.33247196227294523,0
+Word TF-IDF + logistic,4,217,0,0.39024296180114026,0
+Word TF-IDF + logistic,4,224,0,0.2459626875316885,0
+Word TF-IDF + logistic,4,240,0,0.2055499992824089,0
+Word TF-IDF + logistic,4,244,0,0.5448079973763013,1
+Word TF-IDF + logistic,4,250,1,0.5855520466281974,1
+Word TF-IDF + logistic,4,257,0,0.21747610798699987,0
+Word TF-IDF + logistic,4,261,0,0.2055499992824089,0
+Word TF-IDF + logistic,4,264,0,0.5061174770961197,1
+Word TF-IDF + logistic,4,273,0,0.4984361553873588,0
+Word TF-IDF + logistic,4,287,0,0.38675805602300745,0
+Word TF-IDF + logistic,4,291,0,0.2363444849719569,0
+Word TF-IDF + logistic,4,292,0,0.32405789600958773,0
+Word TF-IDF + logistic,4,299,0,0.3422497950321749,0
+Word TF-IDF + logistic,4,302,0,0.2730738030501965,0
+Word TF-IDF + logistic,4,316,0,0.2361301315366051,0
+Word TF-IDF + logistic,4,337,0,0.2922077578019432,0
+Word TF-IDF + logistic,4,340,0,0.32405789600958773,0
+Word TF-IDF + logistic,4,341,0,0.36759123772670826,0
+Word TF-IDF + logistic,4,342,0,0.17011718634414041,0
+Word TF-IDF + logistic,4,344,0,0.2675420620413484,0
+Word TF-IDF + logistic,4,347,0,0.37296664504897936,0
+Word TF-IDF + logistic,4,348,1,0.6806132384426116,1
+Word TF-IDF + logistic,4,351,1,0.5950920999412089,1
+Word TF-IDF + logistic,4,354,0,0.22015183883428607,0
+Word TF-IDF + logistic,4,356,0,0.37263180696421505,0
+Word TF-IDF + logistic,4,369,1,0.5710310955947041,1
+Word TF-IDF + logistic,4,374,1,0.5499033725611776,1
+Word TF-IDF + logistic,4,375,1,0.8508304301732416,1
+Word TF-IDF + logistic,4,379,0,0.477514380152683,0
+Word TF-IDF + logistic,4,381,1,0.8450101857953063,1
+Word TF-IDF + logistic,4,385,1,0.7400073677835822,1
+Word TF-IDF + logistic,4,388,0,0.35188356853882446,0
+Word TF-IDF + logistic,4,390,0,0.42830600480274306,0
+Word TF-IDF + logistic,4,392,1,0.6713702260566345,1
+Word TF-IDF + logistic,4,394,1,0.715476929439322,1
+Word TF-IDF + logistic,4,400,1,0.6175305026082769,1
+Word TF-IDF + logistic,4,401,1,0.6039424661299205,1
+Word TF-IDF + logistic,4,402,1,0.7897674370616535,1
+Word TF-IDF + logistic,4,403,1,0.7410458928223034,1
+Word TF-IDF + logistic,4,404,0,0.4165236003035357,0
+Word TF-IDF + logistic,4,417,0,0.3537670945657345,0
+Word TF-IDF + logistic,4,433,0,0.4265131230419788,0
+Word TF-IDF + logistic,4,434,0,0.5654309007399283,1
+Word TF-IDF + logistic,4,437,1,0.8670330593435548,1
+Word TF-IDF + logistic,4,440,1,0.6967582374785898,1
+Word TF-IDF + logistic,4,445,1,0.5425390709065898,1
+Word TF-IDF + logistic,4,446,1,0.5466343480291029,1
+Word TF-IDF + logistic,4,448,1,0.7990967744456405,1
+Word TF-IDF + logistic,4,451,0,0.23964947111562704,0
+Word TF-IDF + logistic,4,459,1,0.4140217447299678,0
+Word TF-IDF + logistic,4,465,1,0.7105461303665724,1
+Word TF-IDF + logistic,4,466,1,0.5546638280528449,1
+Word TF-IDF + logistic,4,467,1,0.8308539825316374,1
+Word TF-IDF + logistic,4,468,1,0.7129891792352038,1
+Word TF-IDF + logistic,4,474,0,0.3761357691247876,0
+Word TF-IDF + logistic,4,484,0,0.34542301184732505,0
+Word TF-IDF + logistic,4,488,1,0.6348833665896422,1
+Word TF-IDF + logistic,4,490,1,0.6847855564618254,1
+Word TF-IDF + logistic,4,516,1,0.5043561379468962,1
+Word TF-IDF + logistic,4,517,1,0.5641828031987572,1
+Word TF-IDF + logistic,4,526,1,0.5049037133929486,1
+Word TF-IDF + logistic,4,528,1,0.641427255525677,1
+Word TF-IDF + logistic,4,529,1,0.502013134039574,1
+Word TF-IDF + logistic,4,536,1,0.5944369561563716,1
+Word TF-IDF + logistic,4,539,1,0.5590987354693475,1
+Word TF-IDF + logistic,4,540,1,0.7283708864555397,1
+Word TF-IDF + logistic,5,6,0,0.36814040574328494,0
+Word TF-IDF + logistic,5,9,0,0.28237076155535173,0
+Word TF-IDF + logistic,5,14,0,0.3462941335364074,0
+Word TF-IDF + logistic,5,24,0,0.3955759499424175,0
+Word TF-IDF + logistic,5,31,0,0.3106896502821201,0
+Word TF-IDF + logistic,5,41,0,0.3229990642370324,0
+Word TF-IDF + logistic,5,43,1,0.709316932210747,1
+Word TF-IDF + logistic,5,52,0,0.3700330370983104,0
+Word TF-IDF + logistic,5,56,1,0.7954533909796349,1
+Word TF-IDF + logistic,5,64,0,0.5899651750546863,1
+Word TF-IDF + logistic,5,65,0,0.2943280711764275,0
+Word TF-IDF + logistic,5,68,0,0.4343188444287514,0
+Word TF-IDF + logistic,5,71,0,0.34962449446029115,0
+Word TF-IDF + logistic,5,80,1,0.7800811272581784,1
+Word TF-IDF + logistic,5,84,0,0.43031058874451616,0
+Word TF-IDF + logistic,5,85,0,0.307934585099065,0
+Word TF-IDF + logistic,5,86,1,0.7405380245905621,1
+Word TF-IDF + logistic,5,88,0,0.45302881871413764,0
+Word TF-IDF + logistic,5,91,0,0.4451072654383814,0
+Word TF-IDF + logistic,5,93,0,0.5314593119607298,1
+Word TF-IDF + logistic,5,98,0,0.42109195245571984,0
+Word TF-IDF + logistic,5,102,0,0.24616333393828066,0
+Word TF-IDF + logistic,5,103,1,0.7333422225120485,1
+Word TF-IDF + logistic,5,107,0,0.3431074580747125,0
+Word TF-IDF + logistic,5,124,1,0.7287519911439693,1
+Word TF-IDF + logistic,5,129,0,0.4036230590041052,0
+Word TF-IDF + logistic,5,140,0,0.44067543250197505,0
+Word TF-IDF + logistic,5,143,1,0.7854976100740646,1
+Word TF-IDF + logistic,5,144,1,0.8104891518488264,1
+Word TF-IDF + logistic,5,147,0,0.4220353636543948,0
+Word TF-IDF + logistic,5,148,0,0.4331105279651855,0
+Word TF-IDF + logistic,5,156,0,0.36574620687992426,0
+Word TF-IDF + logistic,5,160,0,0.27776892286168936,0
+Word TF-IDF + logistic,5,182,0,0.4175217522784991,0
+Word TF-IDF + logistic,5,189,0,0.30698667968220295,0
+Word TF-IDF + logistic,5,191,0,0.27027005204536586,0
+Word TF-IDF + logistic,5,192,0,0.2630694876061339,0
+Word TF-IDF + logistic,5,195,0,0.4270349245872131,0
+Word TF-IDF + logistic,5,196,0,0.21518375338818377,0
+Word TF-IDF + logistic,5,201,0,0.293740218286285,0
+Word TF-IDF + logistic,5,205,0,0.25482130512475876,0
+Word TF-IDF + logistic,5,208,0,0.28206702323512034,0
+Word TF-IDF + logistic,5,209,0,0.3105267548080669,0
+Word TF-IDF + logistic,5,211,0,0.33259823058527593,0
+Word TF-IDF + logistic,5,226,0,0.3577303450505632,0
+Word TF-IDF + logistic,5,227,0,0.19833962646955358,0
+Word TF-IDF + logistic,5,230,0,0.15978980263176898,0
+Word TF-IDF + logistic,5,233,0,0.36603933879738554,0
+Word TF-IDF + logistic,5,236,1,0.7004345064795385,1
+Word TF-IDF + logistic,5,242,0,0.1984036658681813,0
+Word TF-IDF + logistic,5,249,1,0.6970273037288298,1
+Word TF-IDF + logistic,5,254,1,0.6371307589645254,1
+Word TF-IDF + logistic,5,266,1,0.6876220966701978,1
+Word TF-IDF + logistic,5,277,0,0.31488661049245636,0
+Word TF-IDF + logistic,5,279,0,0.15978980263176898,0
+Word TF-IDF + logistic,5,282,0,0.2994233850383634,0
+Word TF-IDF + logistic,5,284,0,0.2507662449616579,0
+Word TF-IDF + logistic,5,285,0,0.32324504246267016,0
+Word TF-IDF + logistic,5,290,0,0.3755905364771055,0
+Word TF-IDF + logistic,5,304,1,0.6027244383391264,1
+Word TF-IDF + logistic,5,305,1,0.5580604692632872,1
+Word TF-IDF + logistic,5,307,0,0.3643070256618509,0
+Word TF-IDF + logistic,5,309,0,0.3702536625631653,0
+Word TF-IDF + logistic,5,312,0,0.34968615351951526,0
+Word TF-IDF + logistic,5,314,0,0.28847347628557446,0
+Word TF-IDF + logistic,5,317,1,0.6841604159437512,1
+Word TF-IDF + logistic,5,320,0,0.3680240539474761,0
+Word TF-IDF + logistic,5,335,0,0.3157995987279503,0
+Word TF-IDF + logistic,5,336,0,0.4244208845741135,0
+Word TF-IDF + logistic,5,339,0,0.40425669655759267,0
+Word TF-IDF + logistic,5,343,0,0.15978980263176898,0
+Word TF-IDF + logistic,5,345,0,0.3375721455165013,0
+Word TF-IDF + logistic,5,346,0,0.3924281559490619,0
+Word TF-IDF + logistic,5,353,1,0.6844340674411886,1
+Word TF-IDF + logistic,5,362,1,0.7817485214249837,1
+Word TF-IDF + logistic,5,366,1,0.5114533806082657,1
+Word TF-IDF + logistic,5,377,1,0.7250557016105578,1
+Word TF-IDF + logistic,5,380,1,0.629916601904352,1
+Word TF-IDF + logistic,5,382,1,0.41234642870841004,0
+Word TF-IDF + logistic,5,389,1,0.5124085934314204,1
+Word TF-IDF + logistic,5,405,1,0.7488082019422974,1
+Word TF-IDF + logistic,5,408,0,0.5889325775780414,1
+Word TF-IDF + logistic,5,411,1,0.5006350605811861,1
+Word TF-IDF + logistic,5,412,0,0.45561516321718504,0
+Word TF-IDF + logistic,5,413,0,0.5400989347722115,1
+Word TF-IDF + logistic,5,414,1,0.5526096979751252,1
+Word TF-IDF + logistic,5,415,1,0.8706938054222888,1
+Word TF-IDF + logistic,5,416,1,0.3479357926478975,0
+Word TF-IDF + logistic,5,421,1,0.7112340840574942,1
+Word TF-IDF + logistic,5,426,0,0.5019552341403588,1
+Word TF-IDF + logistic,5,439,0,0.5991420208748813,1
+Word TF-IDF + logistic,5,444,0,0.5359885695878658,1
+Word TF-IDF + logistic,5,449,0,0.3969147928953951,0
+Word TF-IDF + logistic,5,452,0,0.5279167610473481,1
+Word TF-IDF + logistic,5,472,0,0.4829068509661451,0
+Word TF-IDF + logistic,5,476,0,0.4247651319131609,0
+Word TF-IDF + logistic,5,479,1,0.4892541181853194,0
+Word TF-IDF + logistic,5,481,1,0.7221548335295053,1
+Word TF-IDF + logistic,5,486,1,0.5631374632159637,1
+Word TF-IDF + logistic,5,492,1,0.6358261942710781,1
+Word TF-IDF + logistic,5,493,1,0.6219269637595061,1
+Word TF-IDF + logistic,5,496,1,0.5971771576059574,1
+Word TF-IDF + logistic,5,505,1,0.5879262295129049,1
+Word TF-IDF + logistic,5,507,1,0.42164914429649586,0
+Word TF-IDF + logistic,5,513,1,0.6048637160416935,1
+Word TF-IDF + logistic,5,514,1,0.743065623922562,1
+Word TF-IDF + logistic,5,519,1,0.7054029703141688,1
+Word TF-IDF + logistic,5,533,1,0.5904426346839421,1
+Word TF-IDF + logistic,5,544,1,0.5147091404781347,1
+Character TF-IDF + logistic,1,3,0,0.3564820371849381,0
+Character TF-IDF + logistic,1,11,0,0.43481613645250405,0
+Character TF-IDF + logistic,1,21,0,0.3210142302327767,0
+Character TF-IDF + logistic,1,23,0,0.4038697146854306,0
+Character TF-IDF + logistic,1,32,1,0.6065168442397376,1
+Character TF-IDF + logistic,1,34,0,0.23812167771186293,0
+Character TF-IDF + logistic,1,39,0,0.3373034146555039,0
+Character TF-IDF + logistic,1,47,0,0.29526100820918294,0
+Character TF-IDF + logistic,1,50,0,0.2857332310186573,0
+Character TF-IDF + logistic,1,55,0,0.1901322496910611,0
+Character TF-IDF + logistic,1,61,0,0.2761122803008458,0
+Character TF-IDF + logistic,1,63,0,0.3420256286665595,0
+Character TF-IDF + logistic,1,66,0,0.39837334722093065,0
+Character TF-IDF + logistic,1,69,1,0.7768863396227634,1
+Character TF-IDF + logistic,1,77,0,0.28395937145427147,0
+Character TF-IDF + logistic,1,78,1,0.7823558102772656,1
+Character TF-IDF + logistic,1,79,0,0.30930118617020924,0
+Character TF-IDF + logistic,1,82,0,0.3569995876649667,0
+Character TF-IDF + logistic,1,89,1,0.5255425707764224,1
+Character TF-IDF + logistic,1,94,0,0.36742549006136144,0
+Character TF-IDF + logistic,1,100,0,0.4289776933348325,0
+Character TF-IDF + logistic,1,101,0,0.4785311510053986,0
+Character TF-IDF + logistic,1,109,1,0.8240963433473237,1
+Character TF-IDF + logistic,1,113,0,0.28045605228720155,0
+Character TF-IDF + logistic,1,119,0,0.2479488423947214,0
+Character TF-IDF + logistic,1,122,0,0.32513446961839354,0
+Character TF-IDF + logistic,1,132,0,0.41499588592157,0
+Character TF-IDF + logistic,1,135,1,0.6192049103310384,1
+Character TF-IDF + logistic,1,136,0,0.3821646579610134,0
+Character TF-IDF + logistic,1,137,1,0.7054125995956779,1
+Character TF-IDF + logistic,1,138,1,0.7234736268071916,1
+Character TF-IDF + logistic,1,139,0,0.27710982403922463,0
+Character TF-IDF + logistic,1,145,0,0.37852905906970463,0
+Character TF-IDF + logistic,1,146,0,0.3865352111923643,0
+Character TF-IDF + logistic,1,149,0,0.4687665872134806,0
+Character TF-IDF + logistic,1,151,0,0.41258973581051306,0
+Character TF-IDF + logistic,1,158,1,0.6709380232068747,1
+Character TF-IDF + logistic,1,173,1,0.8425541075294544,1
+Character TF-IDF + logistic,1,175,0,0.4962207165805709,0
+Character TF-IDF + logistic,1,176,0,0.34537310441993824,0
+Character TF-IDF + logistic,1,177,0,0.3709066608678638,0
+Character TF-IDF + logistic,1,178,1,0.5396395112087486,1
+Character TF-IDF + logistic,1,181,0,0.30286424877263085,0
+Character TF-IDF + logistic,1,190,1,0.6851933511310235,1
+Character TF-IDF + logistic,1,200,0,0.2574439366689297,0
+Character TF-IDF + logistic,1,218,1,0.6997945727875083,1
+Character TF-IDF + logistic,1,219,0,0.2542908653642868,0
+Character TF-IDF + logistic,1,231,0,0.35635163733971265,0
+Character TF-IDF + logistic,1,241,0,0.3658484525921907,0
+Character TF-IDF + logistic,1,243,0,0.3948112970175084,0
+Character TF-IDF + logistic,1,251,0,0.3265561453292147,0
+Character TF-IDF + logistic,1,252,0,0.3534419583798648,0
+Character TF-IDF + logistic,1,253,0,0.31186850628674284,0
+Character TF-IDF + logistic,1,260,1,0.728674147920397,1
+Character TF-IDF + logistic,1,262,0,0.2585596465446923,0
+Character TF-IDF + logistic,1,271,0,0.38754119234981366,0
+Character TF-IDF + logistic,1,276,0,0.22575578449692102,0
+Character TF-IDF + logistic,1,280,0,0.22914686068898588,0
+Character TF-IDF + logistic,1,281,0,0.3576505895985607,0
+Character TF-IDF + logistic,1,296,1,0.62524572431434,1
+Character TF-IDF + logistic,1,298,0,0.26067091721684343,0
+Character TF-IDF + logistic,1,300,0,0.3058283384963739,0
+Character TF-IDF + logistic,1,303,0,0.20785773293633603,0
+Character TF-IDF + logistic,1,306,0,0.31210850420349445,0
+Character TF-IDF + logistic,1,308,0,0.30472577518519434,0
+Character TF-IDF + logistic,1,313,0,0.17484418681092484,0
+Character TF-IDF + logistic,1,322,0,0.2530786673791818,0
+Character TF-IDF + logistic,1,323,1,0.8126537333414623,1
+Character TF-IDF + logistic,1,327,0,0.3515534687948244,0
+Character TF-IDF + logistic,1,328,0,0.35681005865577464,0
+Character TF-IDF + logistic,1,329,0,0.4956308763440972,0
+Character TF-IDF + logistic,1,331,0,0.26285782523931295,0
+Character TF-IDF + logistic,1,333,1,0.6851448608694641,1
+Character TF-IDF + logistic,1,352,0,0.5586707735081762,1
+Character TF-IDF + logistic,1,359,0,0.3035832973126678,0
+Character TF-IDF + logistic,1,360,1,0.5213910233304464,1
+Character TF-IDF + logistic,1,361,0,0.2616520671028147,0
+Character TF-IDF + logistic,1,363,1,0.4235842163206674,0
+Character TF-IDF + logistic,1,364,0,0.3872095532904507,0
+Character TF-IDF + logistic,1,367,1,0.3842694591500079,0
+Character TF-IDF + logistic,1,368,1,0.3066254024537435,0
+Character TF-IDF + logistic,1,371,1,0.6025781540156815,1
+Character TF-IDF + logistic,1,376,0,0.461142058269282,0
+Character TF-IDF + logistic,1,384,1,0.6673336749983377,1
+Character TF-IDF + logistic,1,386,1,0.5010457842067554,1
+Character TF-IDF + logistic,1,387,0,0.305285857111732,0
+Character TF-IDF + logistic,1,396,0,0.4321581584754792,0
+Character TF-IDF + logistic,1,409,1,0.6063694629692818,1
+Character TF-IDF + logistic,1,418,0,0.24209844098139152,0
+Character TF-IDF + logistic,1,420,0,0.4800739774746296,0
+Character TF-IDF + logistic,1,428,1,0.7409258255605264,1
+Character TF-IDF + logistic,1,431,0,0.3567357216491754,0
+Character TF-IDF + logistic,1,432,0,0.4077465079011492,0
+Character TF-IDF + logistic,1,436,0,0.34709759003794804,0
+Character TF-IDF + logistic,1,443,1,0.6754451800860641,1
+Character TF-IDF + logistic,1,462,1,0.7539353566722851,1
+Character TF-IDF + logistic,1,464,1,0.5947917184759061,1
+Character TF-IDF + logistic,1,469,1,0.4022583349638078,0
+Character TF-IDF + logistic,1,477,0,0.3848439515320206,0
+Character TF-IDF + logistic,1,483,1,0.8818906128063678,1
+Character TF-IDF + logistic,1,501,1,0.6376801218995387,1
+Character TF-IDF + logistic,1,503,1,0.598459886235858,1
+Character TF-IDF + logistic,1,510,1,0.4542894831507495,0
+Character TF-IDF + logistic,1,522,1,0.3845774055677966,0
+Character TF-IDF + logistic,1,530,1,0.7314646207796138,1
+Character TF-IDF + logistic,1,532,1,0.33458646808551806,0
+Character TF-IDF + logistic,1,534,1,0.6600813671221966,1
+Character TF-IDF + logistic,1,538,1,0.7435047595957085,1
+Character TF-IDF + logistic,1,543,1,0.5507623284131007,1
+Character TF-IDF + logistic,1,545,1,0.4946811996268038,0
+Character TF-IDF + logistic,2,1,0,0.35768866180403996,0
+Character TF-IDF + logistic,2,2,0,0.265478080216382,0
+Character TF-IDF + logistic,2,5,0,0.44275733860367494,0
+Character TF-IDF + logistic,2,12,0,0.19480467330202902,0
+Character TF-IDF + logistic,2,16,0,0.2500955895878141,0
+Character TF-IDF + logistic,2,18,0,0.2158061414379887,0
+Character TF-IDF + logistic,2,25,0,0.27696713536986967,0
+Character TF-IDF + logistic,2,27,0,0.3138874446822196,0
+Character TF-IDF + logistic,2,28,0,0.27268977779320713,0
+Character TF-IDF + logistic,2,35,0,0.4380769219759633,0
+Character TF-IDF + logistic,2,37,0,0.35776153186737114,0
+Character TF-IDF + logistic,2,38,1,0.7734566019800913,1
+Character TF-IDF + logistic,2,42,1,0.7427402279703053,1
+Character TF-IDF + logistic,2,44,0,0.4051535881646801,0
+Character TF-IDF + logistic,2,45,0,0.38749976084586535,0
+Character TF-IDF + logistic,2,46,0,0.2906559338702191,0
+Character TF-IDF + logistic,2,54,0,0.2692269884547809,0
+Character TF-IDF + logistic,2,60,0,0.24153552150415938,0
+Character TF-IDF + logistic,2,75,0,0.28581785177088453,0
+Character TF-IDF + logistic,2,76,0,0.45887433140835476,0
+Character TF-IDF + logistic,2,81,0,0.2535732739261821,0
+Character TF-IDF + logistic,2,83,0,0.2963380050232552,0
+Character TF-IDF + logistic,2,90,0,0.23487184991278792,0
+Character TF-IDF + logistic,2,95,0,0.28316292458904885,0
+Character TF-IDF + logistic,2,97,0,0.3345350491364162,0
+Character TF-IDF + logistic,2,114,1,0.4276865004004282,0
+Character TF-IDF + logistic,2,117,0,0.2474298321020193,0
+Character TF-IDF + logistic,2,125,1,0.6316672246141328,1
+Character TF-IDF + logistic,2,133,0,0.2636223906815871,0
+Character TF-IDF + logistic,2,134,0,0.2556130739840006,0
+Character TF-IDF + logistic,2,142,0,0.19428847101456295,0
+Character TF-IDF + logistic,2,154,1,0.8768179661985751,1
+Character TF-IDF + logistic,2,157,0,0.2823674873356764,0
+Character TF-IDF + logistic,2,165,0,0.2783052987385072,0
+Character TF-IDF + logistic,2,166,0,0.45458477957252835,0
+Character TF-IDF + logistic,2,169,0,0.3455622906998268,0
+Character TF-IDF + logistic,2,171,1,0.42976695435154405,0
+Character TF-IDF + logistic,2,172,0,0.5852862826509799,1
+Character TF-IDF + logistic,2,180,0,0.3219861738953111,0
+Character TF-IDF + logistic,2,185,0,0.31706393331911226,0
+Character TF-IDF + logistic,2,188,0,0.26855759172918253,0
+Character TF-IDF + logistic,2,199,0,0.2914363321269108,0
+Character TF-IDF + logistic,2,204,0,0.29510492132883137,0
+Character TF-IDF + logistic,2,207,0,0.19927806564346215,0
+Character TF-IDF + logistic,2,212,1,0.6881180964317488,1
+Character TF-IDF + logistic,2,220,0,0.2092800767836537,0
+Character TF-IDF + logistic,2,223,1,0.6837846152407188,1
+Character TF-IDF + logistic,2,225,0,0.2731916757558261,0
+Character TF-IDF + logistic,2,228,0,0.3879499422785696,0
+Character TF-IDF + logistic,2,229,0,0.3380032728221125,0
+Character TF-IDF + logistic,2,232,0,0.28949899633628534,0
+Character TF-IDF + logistic,2,234,0,0.27548790424575426,0
+Character TF-IDF + logistic,2,238,0,0.23319505641642008,0
+Character TF-IDF + logistic,2,245,0,0.25835903088951806,0
+Character TF-IDF + logistic,2,247,0,0.22367383545618974,0
+Character TF-IDF + logistic,2,259,0,0.23986065960759775,0
+Character TF-IDF + logistic,2,263,0,0.23453972979142376,0
+Character TF-IDF + logistic,2,267,1,0.40375879920112495,0
+Character TF-IDF + logistic,2,269,1,0.35221727734646113,0
+Character TF-IDF + logistic,2,270,0,0.2384798425833878,0
+Character TF-IDF + logistic,2,272,0,0.25345131573697605,0
+Character TF-IDF + logistic,2,275,0,0.24288461873647102,0
+Character TF-IDF + logistic,2,286,0,0.19729427256041876,0
+Character TF-IDF + logistic,2,293,0,0.18637848161823525,0
+Character TF-IDF + logistic,2,294,1,0.4067540709897219,0
+Character TF-IDF + logistic,2,297,0,0.25165753949231945,0
+Character TF-IDF + logistic,2,315,1,0.5523114369468567,1
+Character TF-IDF + logistic,2,324,1,0.5331932197155851,1
+Character TF-IDF + logistic,2,325,0,0.2257785314365754,0
+Character TF-IDF + logistic,2,326,0,0.3279888240156312,0
+Character TF-IDF + logistic,2,332,1,0.5188776468315549,1
+Character TF-IDF + logistic,2,334,1,0.7949639182076341,1
+Character TF-IDF + logistic,2,338,1,0.7182431558085688,1
+Character TF-IDF + logistic,2,357,0,0.302108940763353,0
+Character TF-IDF + logistic,2,365,1,0.6412948514071866,1
+Character TF-IDF + logistic,2,370,0,0.40358004374889306,0
+Character TF-IDF + logistic,2,383,0,0.3961315174586008,0
+Character TF-IDF + logistic,2,397,0,0.482648016139994,0
+Character TF-IDF + logistic,2,406,1,0.690639915838505,1
+Character TF-IDF + logistic,2,410,0,0.32902940642425615,0
+Character TF-IDF + logistic,2,422,1,0.39866130579263115,0
+Character TF-IDF + logistic,2,425,1,0.6478428916060509,1
+Character TF-IDF + logistic,2,435,1,0.30862150975234376,0
+Character TF-IDF + logistic,2,438,1,0.6949728007786098,1
+Character TF-IDF + logistic,2,441,1,0.5724218685791584,1
+Character TF-IDF + logistic,2,455,0,0.5560753589297556,1
+Character TF-IDF + logistic,2,456,1,0.5419008783354213,1
+Character TF-IDF + logistic,2,460,0,0.36031983509993754,0
+Character TF-IDF + logistic,2,463,0,0.342304183544057,0
+Character TF-IDF + logistic,2,470,1,0.4720781218320692,0
+Character TF-IDF + logistic,2,475,0,0.374098117658375,0
+Character TF-IDF + logistic,2,480,0,0.7291237507485636,1
+Character TF-IDF + logistic,2,482,0,0.36291405983428104,0
+Character TF-IDF + logistic,2,485,0,0.4363624398663767,0
+Character TF-IDF + logistic,2,494,1,0.6911113345649402,1
+Character TF-IDF + logistic,2,495,1,0.5673756492171984,1
+Character TF-IDF + logistic,2,497,1,0.46720826821159495,0
+Character TF-IDF + logistic,2,506,1,0.7362305490314623,1
+Character TF-IDF + logistic,2,509,1,0.5791981603528296,1
+Character TF-IDF + logistic,2,511,1,0.6850596844795059,1
+Character TF-IDF + logistic,2,512,1,0.7069971612418253,1
+Character TF-IDF + logistic,2,515,1,0.6614958910918711,1
+Character TF-IDF + logistic,2,518,1,0.42077038570364694,0
+Character TF-IDF + logistic,2,520,1,0.7744751416246817,1
+Character TF-IDF + logistic,2,523,1,0.6870274327256279,1
+Character TF-IDF + logistic,2,531,1,0.5660818613138104,1
+Character TF-IDF + logistic,2,535,1,0.5314934552597879,1
+Character TF-IDF + logistic,2,537,1,0.45396040766549406,0
+Character TF-IDF + logistic,2,541,1,0.6155404146792344,1
+Character TF-IDF + logistic,3,7,0,0.4805198723749777,0
+Character TF-IDF + logistic,3,8,0,0.2746645764506722,0
+Character TF-IDF + logistic,3,10,1,0.7142824652501442,1
+Character TF-IDF + logistic,3,17,0,0.4287283551431197,0
+Character TF-IDF + logistic,3,19,0,0.3266814742873529,0
+Character TF-IDF + logistic,3,20,0,0.2242684375600758,0
+Character TF-IDF + logistic,3,22,0,0.4018661877332241,0
+Character TF-IDF + logistic,3,26,0,0.2661095786352112,0
+Character TF-IDF + logistic,3,29,0,0.36356526657584953,0
+Character TF-IDF + logistic,3,30,0,0.24606402521537127,0
+Character TF-IDF + logistic,3,33,0,0.24403502554888823,0
+Character TF-IDF + logistic,3,51,0,0.37113068682838735,0
+Character TF-IDF + logistic,3,58,0,0.3406779286660414,0
+Character TF-IDF + logistic,3,62,0,0.4661006650349998,0
+Character TF-IDF + logistic,3,70,1,0.8546930783862255,1
+Character TF-IDF + logistic,3,73,0,0.4288350555379699,0
+Character TF-IDF + logistic,3,99,0,0.2618960277465031,0
+Character TF-IDF + logistic,3,104,0,0.20812175342141692,0
+Character TF-IDF + logistic,3,111,0,0.4556644497320076,0
+Character TF-IDF + logistic,3,115,0,0.2743657734374805,0
+Character TF-IDF + logistic,3,118,0,0.36694138438988577,0
+Character TF-IDF + logistic,3,120,0,0.39637028323635765,0
+Character TF-IDF + logistic,3,127,0,0.47729327826339557,0
+Character TF-IDF + logistic,3,130,1,0.7113676119405288,1
+Character TF-IDF + logistic,3,131,0,0.26293882599270796,0
+Character TF-IDF + logistic,3,159,0,0.2883281923388146,0
+Character TF-IDF + logistic,3,161,0,0.28467020757311273,0
+Character TF-IDF + logistic,3,162,0,0.26999159328634287,0
+Character TF-IDF + logistic,3,164,0,0.34809878202324024,0
+Character TF-IDF + logistic,3,174,0,0.40475233340955447,0
+Character TF-IDF + logistic,3,179,0,0.43586430455677927,0
+Character TF-IDF + logistic,3,184,1,0.8115476505145782,1
+Character TF-IDF + logistic,3,186,0,0.3658893220945043,0
+Character TF-IDF + logistic,3,187,0,0.28029895870994836,0
+Character TF-IDF + logistic,3,193,0,0.29655769806103,0
+Character TF-IDF + logistic,3,197,0,0.3243230469424636,0
+Character TF-IDF + logistic,3,203,0,0.45154989572969323,0
+Character TF-IDF + logistic,3,213,0,0.2603260467298754,0
+Character TF-IDF + logistic,3,214,0,0.3098823174995235,0
+Character TF-IDF + logistic,3,216,0,0.35183592902658456,0
+Character TF-IDF + logistic,3,221,0,0.3985116229513244,0
+Character TF-IDF + logistic,3,222,1,0.6519924534679793,1
+Character TF-IDF + logistic,3,235,0,0.26188032921138643,0
+Character TF-IDF + logistic,3,237,0,0.3761723948380567,0
+Character TF-IDF + logistic,3,239,0,0.36005151925752693,0
+Character TF-IDF + logistic,3,246,0,0.2928998601914434,0
+Character TF-IDF + logistic,3,248,0,0.35552894240079497,0
+Character TF-IDF + logistic,3,255,0,0.25616758597819744,0
+Character TF-IDF + logistic,3,256,0,0.32811558372600386,0
+Character TF-IDF + logistic,3,258,1,0.7570888567019088,1
+Character TF-IDF + logistic,3,265,0,0.1718822660650526,0
+Character TF-IDF + logistic,3,268,0,0.368048907064308,0
+Character TF-IDF + logistic,3,274,0,0.3443844662286454,0
+Character TF-IDF + logistic,3,278,0,0.44746627347323104,0
+Character TF-IDF + logistic,3,283,1,0.6588615381463965,1
+Character TF-IDF + logistic,3,288,0,0.32819302723121546,0
+Character TF-IDF + logistic,3,289,1,0.6269503913645837,1
+Character TF-IDF + logistic,3,295,0,0.2542595478519005,0
+Character TF-IDF + logistic,3,301,0,0.35979134844986715,0
+Character TF-IDF + logistic,3,310,1,0.787010385444454,1
+Character TF-IDF + logistic,3,311,0,0.2252311840325538,0
+Character TF-IDF + logistic,3,318,1,0.5467599791265364,1
+Character TF-IDF + logistic,3,319,0,0.2878239221537798,0
+Character TF-IDF + logistic,3,321,0,0.3306977452162217,0
+Character TF-IDF + logistic,3,330,0,0.32888847702814017,0
+Character TF-IDF + logistic,3,349,0,0.30908671479240407,0
+Character TF-IDF + logistic,3,350,0,0.27672275375777383,0
+Character TF-IDF + logistic,3,355,0,0.36709953695519415,0
+Character TF-IDF + logistic,3,358,1,0.7640013403354982,1
+Character TF-IDF + logistic,3,372,1,0.6642756469977347,1
+Character TF-IDF + logistic,3,373,0,0.3200498719480278,0
+Character TF-IDF + logistic,3,378,1,0.6980750978067626,1
+Character TF-IDF + logistic,3,391,1,0.734907758446757,1
+Character TF-IDF + logistic,3,393,1,0.5574697371588716,1
+Character TF-IDF + logistic,3,395,1,0.45153550834219114,0
+Character TF-IDF + logistic,3,398,1,0.6797201742719619,1
+Character TF-IDF + logistic,3,399,1,0.8184240491564726,1
+Character TF-IDF + logistic,3,407,0,0.3531223563519144,0
+Character TF-IDF + logistic,3,419,1,0.6411988351345187,1
+Character TF-IDF + logistic,3,423,0,0.609897334384282,1
+Character TF-IDF + logistic,3,424,0,0.26851096829647314,0
+Character TF-IDF + logistic,3,427,1,0.709228830530942,1
+Character TF-IDF + logistic,3,429,0,0.4288278067532755,0
+Character TF-IDF + logistic,3,430,0,0.5770041985589732,1
+Character TF-IDF + logistic,3,442,0,0.4300661570704836,0
+Character TF-IDF + logistic,3,447,0,0.45900667412346696,0
+Character TF-IDF + logistic,3,450,1,0.6611187646912913,1
+Character TF-IDF + logistic,3,453,1,0.6399409860536274,1
+Character TF-IDF + logistic,3,454,0,0.3870282804534739,0
+Character TF-IDF + logistic,3,457,0,0.33282547578029226,0
+Character TF-IDF + logistic,3,458,1,0.7265303243791542,1
+Character TF-IDF + logistic,3,461,1,0.3477776268270228,0
+Character TF-IDF + logistic,3,471,1,0.8129361274555648,1
+Character TF-IDF + logistic,3,473,1,0.7046091019424697,1
+Character TF-IDF + logistic,3,478,0,0.33952224493753386,0
+Character TF-IDF + logistic,3,487,1,0.47914776283652427,0
+Character TF-IDF + logistic,3,489,1,0.6653004678067399,1
+Character TF-IDF + logistic,3,491,1,0.6430207760903479,1
+Character TF-IDF + logistic,3,498,1,0.7737081627022797,1
+Character TF-IDF + logistic,3,499,1,0.5561491481885974,1
+Character TF-IDF + logistic,3,500,1,0.836476308302924,1
+Character TF-IDF + logistic,3,502,1,0.5248604176751964,1
+Character TF-IDF + logistic,3,504,1,0.5711079729940197,1
+Character TF-IDF + logistic,3,508,1,0.617396436567285,1
+Character TF-IDF + logistic,3,521,1,0.48711107335543213,0
+Character TF-IDF + logistic,3,524,1,0.6685967359143079,1
+Character TF-IDF + logistic,3,525,1,0.6261573219699154,1
+Character TF-IDF + logistic,3,527,1,0.4362050690330497,0
+Character TF-IDF + logistic,3,542,1,0.5160134817787547,1
+Character TF-IDF + logistic,4,0,0,0.25604145901868364,0
+Character TF-IDF + logistic,4,4,1,0.766373725811846,1
+Character TF-IDF + logistic,4,13,0,0.3726301020253868,0
+Character TF-IDF + logistic,4,15,0,0.44891384481715685,0
+Character TF-IDF + logistic,4,36,0,0.3641433825012983,0
+Character TF-IDF + logistic,4,40,0,0.2129191354555147,0
+Character TF-IDF + logistic,4,48,0,0.4469597026009701,0
+Character TF-IDF + logistic,4,49,0,0.4130279797681189,0
+Character TF-IDF + logistic,4,53,0,0.32031815416393367,0
+Character TF-IDF + logistic,4,57,0,0.43137434302757005,0
+Character TF-IDF + logistic,4,59,0,0.4083326730298179,0
+Character TF-IDF + logistic,4,67,0,0.18184835432561175,0
+Character TF-IDF + logistic,4,72,0,0.2746997200925968,0
+Character TF-IDF + logistic,4,74,1,0.8531483236027384,1
+Character TF-IDF + logistic,4,87,1,0.4820498701816396,0
+Character TF-IDF + logistic,4,92,0,0.2641609127309098,0
+Character TF-IDF + logistic,4,96,0,0.1958560391223601,0
+Character TF-IDF + logistic,4,105,0,0.2950500676316917,0
+Character TF-IDF + logistic,4,106,0,0.2294853972077975,0
+Character TF-IDF + logistic,4,108,0,0.2602365397917798,0
+Character TF-IDF + logistic,4,110,0,0.36537174639417663,0
+Character TF-IDF + logistic,4,112,0,0.2506972308157218,0
+Character TF-IDF + logistic,4,116,1,0.718945895473668,1
+Character TF-IDF + logistic,4,121,0,0.4616073537213818,0
+Character TF-IDF + logistic,4,123,0,0.26794551877955775,0
+Character TF-IDF + logistic,4,126,0,0.42274439580761697,0
+Character TF-IDF + logistic,4,128,0,0.374494751790981,0
+Character TF-IDF + logistic,4,141,0,0.45842156196642614,0
+Character TF-IDF + logistic,4,150,0,0.2932726419780864,0
+Character TF-IDF + logistic,4,152,1,0.7470863745333186,1
+Character TF-IDF + logistic,4,153,1,0.8169100550566396,1
+Character TF-IDF + logistic,4,155,0,0.4295225705691376,0
+Character TF-IDF + logistic,4,163,0,0.3242777730369,0
+Character TF-IDF + logistic,4,167,0,0.5790871709763279,1
+Character TF-IDF + logistic,4,168,1,0.6575779778648052,1
+Character TF-IDF + logistic,4,170,0,0.2661998154006777,0
+Character TF-IDF + logistic,4,183,0,0.3135257146083845,0
+Character TF-IDF + logistic,4,194,0,0.4757178387406587,0
+Character TF-IDF + logistic,4,198,0,0.22901119743539028,0
+Character TF-IDF + logistic,4,202,0,0.34094084882946357,0
+Character TF-IDF + logistic,4,206,0,0.2743189205154225,0
+Character TF-IDF + logistic,4,210,0,0.2347677561495825,0
+Character TF-IDF + logistic,4,215,0,0.3161589320029408,0
+Character TF-IDF + logistic,4,217,0,0.3142416575726893,0
+Character TF-IDF + logistic,4,224,0,0.28240646988863416,0
+Character TF-IDF + logistic,4,240,0,0.22576110616071277,0
+Character TF-IDF + logistic,4,244,0,0.4796005811598669,0
+Character TF-IDF + logistic,4,250,1,0.7113129980793421,1
+Character TF-IDF + logistic,4,257,0,0.1995705288387167,0
+Character TF-IDF + logistic,4,261,0,0.22082071575025652,0
+Character TF-IDF + logistic,4,264,0,0.4510683629491273,0
+Character TF-IDF + logistic,4,273,0,0.4255367006965339,0
+Character TF-IDF + logistic,4,287,0,0.4322712189004925,0
+Character TF-IDF + logistic,4,291,0,0.30990980472748386,0
+Character TF-IDF + logistic,4,292,0,0.3452675095296876,0
+Character TF-IDF + logistic,4,299,0,0.33415666630278834,0
+Character TF-IDF + logistic,4,302,0,0.2543426334809177,0
+Character TF-IDF + logistic,4,316,0,0.25142269379810667,0
+Character TF-IDF + logistic,4,337,0,0.27996274976914765,0
+Character TF-IDF + logistic,4,340,0,0.3496129817424354,0
+Character TF-IDF + logistic,4,341,0,0.3481593342377821,0
+Character TF-IDF + logistic,4,342,0,0.1994217059865432,0
+Character TF-IDF + logistic,4,344,0,0.34445612708311807,0
+Character TF-IDF + logistic,4,347,0,0.4152135795230161,0
+Character TF-IDF + logistic,4,348,1,0.7070760475573623,1
+Character TF-IDF + logistic,4,351,1,0.5783076481013487,1
+Character TF-IDF + logistic,4,354,0,0.2146768164764322,0
+Character TF-IDF + logistic,4,356,0,0.3280599908121323,0
+Character TF-IDF + logistic,4,369,1,0.5691996684496355,1
+Character TF-IDF + logistic,4,374,1,0.6026300267703364,1
+Character TF-IDF + logistic,4,375,1,0.8688758162262712,1
+Character TF-IDF + logistic,4,379,0,0.5092042756474089,1
+Character TF-IDF + logistic,4,381,1,0.8785510150413645,1
+Character TF-IDF + logistic,4,385,1,0.8185800966591912,1
+Character TF-IDF + logistic,4,388,0,0.319057698437258,0
+Character TF-IDF + logistic,4,390,0,0.39541949346220273,0
+Character TF-IDF + logistic,4,392,1,0.6801514575631901,1
+Character TF-IDF + logistic,4,394,1,0.7593074480785883,1
+Character TF-IDF + logistic,4,400,1,0.7910952693684699,1
+Character TF-IDF + logistic,4,401,1,0.6341262179062005,1
+Character TF-IDF + logistic,4,402,1,0.8298655271963555,1
+Character TF-IDF + logistic,4,403,1,0.783900413209178,1
+Character TF-IDF + logistic,4,404,0,0.3487565682591763,0
+Character TF-IDF + logistic,4,417,0,0.40586604439308593,0
+Character TF-IDF + logistic,4,433,0,0.19913846318119058,0
+Character TF-IDF + logistic,4,434,0,0.5028545718924966,1
+Character TF-IDF + logistic,4,437,1,0.8752216981291597,1
+Character TF-IDF + logistic,4,440,1,0.6858803254787903,1
+Character TF-IDF + logistic,4,445,1,0.6233906055647728,1
+Character TF-IDF + logistic,4,446,1,0.504155353560754,1
+Character TF-IDF + logistic,4,448,1,0.8663239153533178,1
+Character TF-IDF + logistic,4,451,0,0.17539651650307145,0
+Character TF-IDF + logistic,4,459,1,0.5586619048600517,1
+Character TF-IDF + logistic,4,465,1,0.6179790213331908,1
+Character TF-IDF + logistic,4,466,1,0.48419379405673146,0
+Character TF-IDF + logistic,4,467,1,0.8848893886197732,1
+Character TF-IDF + logistic,4,468,1,0.7115746877325327,1
+Character TF-IDF + logistic,4,474,0,0.38642815602017244,0
+Character TF-IDF + logistic,4,484,0,0.31571646891530425,0
+Character TF-IDF + logistic,4,488,1,0.6149311825279834,1
+Character TF-IDF + logistic,4,490,1,0.7598726399811709,1
+Character TF-IDF + logistic,4,516,1,0.5765862748935764,1
+Character TF-IDF + logistic,4,517,1,0.741603213251138,1
+Character TF-IDF + logistic,4,526,1,0.5439752983308112,1
+Character TF-IDF + logistic,4,528,1,0.6563073257646634,1
+Character TF-IDF + logistic,4,529,1,0.5628547852973793,1
+Character TF-IDF + logistic,4,536,1,0.5906371861501085,1
+Character TF-IDF + logistic,4,539,1,0.5324576248959335,1
+Character TF-IDF + logistic,4,540,1,0.7370322979579862,1
+Character TF-IDF + logistic,5,6,0,0.4117607118283355,0
+Character TF-IDF + logistic,5,9,0,0.260777350112801,0
+Character TF-IDF + logistic,5,14,0,0.3939494576748171,0
+Character TF-IDF + logistic,5,24,0,0.387519005942279,0
+Character TF-IDF + logistic,5,31,0,0.32467296256150574,0
+Character TF-IDF + logistic,5,41,0,0.2776057708833789,0
+Character TF-IDF + logistic,5,43,1,0.7161668750271243,1
+Character TF-IDF + logistic,5,52,0,0.33115113827446896,0
+Character TF-IDF + logistic,5,56,1,0.837170205650089,1
+Character TF-IDF + logistic,5,64,0,0.47249565985248065,0
+Character TF-IDF + logistic,5,65,0,0.30637998985546167,0
+Character TF-IDF + logistic,5,68,0,0.40877591441978683,0
+Character TF-IDF + logistic,5,71,0,0.3602727252357034,0
+Character TF-IDF + logistic,5,80,1,0.8162069838346099,1
+Character TF-IDF + logistic,5,84,0,0.4073162141835542,0
+Character TF-IDF + logistic,5,85,0,0.2348814998103133,0
+Character TF-IDF + logistic,5,86,1,0.7508222460296285,1
+Character TF-IDF + logistic,5,88,0,0.40957081711728266,0
+Character TF-IDF + logistic,5,91,0,0.30097132269050597,0
+Character TF-IDF + logistic,5,93,0,0.45678271498676604,0
+Character TF-IDF + logistic,5,98,0,0.39898140603418186,0
+Character TF-IDF + logistic,5,102,0,0.20532269851066692,0
+Character TF-IDF + logistic,5,103,1,0.700260055626153,1
+Character TF-IDF + logistic,5,107,0,0.2962840637837386,0
+Character TF-IDF + logistic,5,124,1,0.8344861834448923,1
+Character TF-IDF + logistic,5,129,0,0.3987127825302063,0
+Character TF-IDF + logistic,5,140,0,0.3903204581936427,0
+Character TF-IDF + logistic,5,143,1,0.8405032716315286,1
+Character TF-IDF + logistic,5,144,1,0.7377258007201486,1
+Character TF-IDF + logistic,5,147,0,0.33396379568702095,0
+Character TF-IDF + logistic,5,148,0,0.4154399607586266,0
+Character TF-IDF + logistic,5,156,0,0.3154628369792185,0
+Character TF-IDF + logistic,5,160,0,0.26634054061251566,0
+Character TF-IDF + logistic,5,182,0,0.3994848346916351,0
+Character TF-IDF + logistic,5,189,0,0.2942515625565056,0
+Character TF-IDF + logistic,5,191,0,0.27989426188658456,0
+Character TF-IDF + logistic,5,192,0,0.22603595338446267,0
+Character TF-IDF + logistic,5,195,0,0.33398785776601236,0
+Character TF-IDF + logistic,5,196,0,0.24381000044455428,0
+Character TF-IDF + logistic,5,201,0,0.30278470414067127,0
+Character TF-IDF + logistic,5,205,0,0.25621495497755464,0
+Character TF-IDF + logistic,5,208,0,0.24270102799930668,0
+Character TF-IDF + logistic,5,209,0,0.31168123982051976,0
+Character TF-IDF + logistic,5,211,0,0.37453052553124727,0
+Character TF-IDF + logistic,5,226,0,0.26931500060713404,0
+Character TF-IDF + logistic,5,227,0,0.1942948732591686,0
+Character TF-IDF + logistic,5,230,0,0.21715062489471296,0
+Character TF-IDF + logistic,5,233,0,0.35790793549862265,0
+Character TF-IDF + logistic,5,236,1,0.8334685051874896,1
+Character TF-IDF + logistic,5,242,0,0.2375414093319446,0
+Character TF-IDF + logistic,5,249,1,0.7578889464565963,1
+Character TF-IDF + logistic,5,254,1,0.7634214117884035,1
+Character TF-IDF + logistic,5,266,1,0.7089954832250714,1
+Character TF-IDF + logistic,5,277,0,0.2291550254962273,0
+Character TF-IDF + logistic,5,279,0,0.20096579590489255,0
+Character TF-IDF + logistic,5,282,0,0.24834990186459233,0
+Character TF-IDF + logistic,5,284,0,0.2665906197901708,0
+Character TF-IDF + logistic,5,285,0,0.3243324203767107,0
+Character TF-IDF + logistic,5,290,0,0.36295618031852134,0
+Character TF-IDF + logistic,5,304,1,0.7290692286159216,1
+Character TF-IDF + logistic,5,305,1,0.5909006801389859,1
+Character TF-IDF + logistic,5,307,0,0.3486661067329217,0
+Character TF-IDF + logistic,5,309,0,0.36867771294712864,0
+Character TF-IDF + logistic,5,312,0,0.3535559894541087,0
+Character TF-IDF + logistic,5,314,0,0.3061795030907828,0
+Character TF-IDF + logistic,5,317,1,0.6572224385572449,1
+Character TF-IDF + logistic,5,320,0,0.3177264939656251,0
+Character TF-IDF + logistic,5,335,0,0.28776845904677645,0
+Character TF-IDF + logistic,5,336,0,0.3845137483324489,0
+Character TF-IDF + logistic,5,339,0,0.36210482707116953,0
+Character TF-IDF + logistic,5,343,0,0.2739316786120531,0
+Character TF-IDF + logistic,5,345,0,0.34211361817372865,0
+Character TF-IDF + logistic,5,346,0,0.31990102858646113,0
+Character TF-IDF + logistic,5,353,1,0.7228795890491237,1
+Character TF-IDF + logistic,5,362,1,0.7725912056225022,1
+Character TF-IDF + logistic,5,366,1,0.5652258309812703,1
+Character TF-IDF + logistic,5,377,1,0.7163909986176374,1
+Character TF-IDF + logistic,5,380,1,0.7364118800424094,1
+Character TF-IDF + logistic,5,382,1,0.5000213686816712,1
+Character TF-IDF + logistic,5,389,1,0.6431721986837444,1
+Character TF-IDF + logistic,5,405,1,0.7594855250279848,1
+Character TF-IDF + logistic,5,408,0,0.4939841718607204,0
+Character TF-IDF + logistic,5,411,1,0.502003735134174,1
+Character TF-IDF + logistic,5,412,0,0.33959265448034953,0
+Character TF-IDF + logistic,5,413,0,0.5592843896249093,1
+Character TF-IDF + logistic,5,414,1,0.5706697306726207,1
+Character TF-IDF + logistic,5,415,1,0.8810370558275908,1
+Character TF-IDF + logistic,5,416,1,0.5262705019749976,1
+Character TF-IDF + logistic,5,421,1,0.733985029592511,1
+Character TF-IDF + logistic,5,426,0,0.42588267872871133,0
+Character TF-IDF + logistic,5,439,0,0.4839930828556158,0
+Character TF-IDF + logistic,5,444,0,0.4254934707084428,0
+Character TF-IDF + logistic,5,449,0,0.39045536328909597,0
+Character TF-IDF + logistic,5,452,0,0.4828549503455649,0
+Character TF-IDF + logistic,5,472,0,0.5247349056005353,1
+Character TF-IDF + logistic,5,476,0,0.39616346802198665,0
+Character TF-IDF + logistic,5,479,1,0.36922123840767357,0
+Character TF-IDF + logistic,5,481,1,0.6892549979684486,1
+Character TF-IDF + logistic,5,486,1,0.5878510376576495,1
+Character TF-IDF + logistic,5,492,1,0.5751466917631446,1
+Character TF-IDF + logistic,5,493,1,0.6828066334350806,1
+Character TF-IDF + logistic,5,496,1,0.6013701452246751,1
+Character TF-IDF + logistic,5,505,1,0.5798828505792952,1
+Character TF-IDF + logistic,5,507,1,0.43351708831606695,0
+Character TF-IDF + logistic,5,513,1,0.6610654493335996,1
+Character TF-IDF + logistic,5,514,1,0.7138637853014549,1
+Character TF-IDF + logistic,5,519,1,0.7644377157706201,1
+Character TF-IDF + logistic,5,533,1,0.678270878704904,1
+Character TF-IDF + logistic,5,544,1,0.5964840537674054,1
+Hybrid word + character TF-IDF,1,3,0,0.3568472513508771,0
+Hybrid word + character TF-IDF,1,11,0,0.4175768030828668,0
+Hybrid word + character TF-IDF,1,21,0,0.2342212826778427,0
+Hybrid word + character TF-IDF,1,23,0,0.41540352938014335,0
+Hybrid word + character TF-IDF,1,32,1,0.5871287933237918,1
+Hybrid word + character TF-IDF,1,34,0,0.15487652873679633,0
+Hybrid word + character TF-IDF,1,39,0,0.2272610709555502,0
+Hybrid word + character TF-IDF,1,47,0,0.2283766929556088,0
+Hybrid word + character TF-IDF,1,50,0,0.22394107586036135,0
+Hybrid word + character TF-IDF,1,55,0,0.16658701821387203,0
+Hybrid word + character TF-IDF,1,61,0,0.220244569086099,0
+Hybrid word + character TF-IDF,1,63,0,0.2845667470505094,0
+Hybrid word + character TF-IDF,1,66,0,0.3357682708022436,0
+Hybrid word + character TF-IDF,1,69,1,0.8169489525456934,1
+Hybrid word + character TF-IDF,1,77,0,0.19262506723596876,0
+Hybrid word + character TF-IDF,1,78,1,0.8296976323399876,1
+Hybrid word + character TF-IDF,1,79,0,0.2266622521756242,0
+Hybrid word + character TF-IDF,1,82,0,0.2916883144035854,0
+Hybrid word + character TF-IDF,1,89,1,0.5460389409415146,1
+Hybrid word + character TF-IDF,1,94,0,0.35089107733539204,0
+Hybrid word + character TF-IDF,1,100,0,0.3211210346874156,0
+Hybrid word + character TF-IDF,1,101,0,0.40665861798100245,0
+Hybrid word + character TF-IDF,1,109,1,0.8942394507909809,1
+Hybrid word + character TF-IDF,1,113,0,0.19686540726136614,0
+Hybrid word + character TF-IDF,1,119,0,0.1911853191525239,0
+Hybrid word + character TF-IDF,1,122,0,0.24188686021228015,0
+Hybrid word + character TF-IDF,1,132,0,0.377201803901036,0
+Hybrid word + character TF-IDF,1,135,1,0.5818330204062,1
+Hybrid word + character TF-IDF,1,136,0,0.35853077824645385,0
+Hybrid word + character TF-IDF,1,137,1,0.791533869743221,1
+Hybrid word + character TF-IDF,1,138,1,0.8032693126842606,1
+Hybrid word + character TF-IDF,1,139,0,0.18350347248126667,0
+Hybrid word + character TF-IDF,1,145,0,0.385648354561331,0
+Hybrid word + character TF-IDF,1,146,0,0.355563165041504,0
+Hybrid word + character TF-IDF,1,149,0,0.3926876202997916,0
+Hybrid word + character TF-IDF,1,151,0,0.4244725435938592,0
+Hybrid word + character TF-IDF,1,158,1,0.7260042300837879,1
+Hybrid word + character TF-IDF,1,173,1,0.8807391343866784,1
+Hybrid word + character TF-IDF,1,175,0,0.45116228713767803,0
+Hybrid word + character TF-IDF,1,176,0,0.28429341687549586,0
+Hybrid word + character TF-IDF,1,177,0,0.3788128622005971,0
+Hybrid word + character TF-IDF,1,178,1,0.5338246555926458,1
+Hybrid word + character TF-IDF,1,181,0,0.2540692931485074,0
+Hybrid word + character TF-IDF,1,190,1,0.7326637745140608,1
+Hybrid word + character TF-IDF,1,200,0,0.21101815727051423,0
+Hybrid word + character TF-IDF,1,218,1,0.7298534807217468,1
+Hybrid word + character TF-IDF,1,219,0,0.16940591408133862,0
+Hybrid word + character TF-IDF,1,231,0,0.3067724494550574,0
+Hybrid word + character TF-IDF,1,241,0,0.3164263141221021,0
+Hybrid word + character TF-IDF,1,243,0,0.3354761724811782,0
+Hybrid word + character TF-IDF,1,251,0,0.23850410148985474,0
+Hybrid word + character TF-IDF,1,252,0,0.3231128244611197,0
+Hybrid word + character TF-IDF,1,253,0,0.29026159808828383,0
+Hybrid word + character TF-IDF,1,260,1,0.7995725103794149,1
+Hybrid word + character TF-IDF,1,262,0,0.20135024176397337,0
+Hybrid word + character TF-IDF,1,271,0,0.3269800766368721,0
+Hybrid word + character TF-IDF,1,276,0,0.14590571031532354,0
+Hybrid word + character TF-IDF,1,280,0,0.1217854634373678,0
+Hybrid word + character TF-IDF,1,281,0,0.35903904341839277,0
+Hybrid word + character TF-IDF,1,296,1,0.70134647285605,1
+Hybrid word + character TF-IDF,1,298,0,0.23622946099224967,0
+Hybrid word + character TF-IDF,1,300,0,0.303350121068104,0
+Hybrid word + character TF-IDF,1,303,0,0.13224559220076146,0
+Hybrid word + character TF-IDF,1,306,0,0.297974980210262,0
+Hybrid word + character TF-IDF,1,308,0,0.23695917315463952,0
+Hybrid word + character TF-IDF,1,313,0,0.09897599556729834,0
+Hybrid word + character TF-IDF,1,322,0,0.21247349752756325,0
+Hybrid word + character TF-IDF,1,323,1,0.8622010308162412,1
+Hybrid word + character TF-IDF,1,327,0,0.3200308519991292,0
+Hybrid word + character TF-IDF,1,328,0,0.2924612274549417,0
+Hybrid word + character TF-IDF,1,329,0,0.47991583237739144,0
+Hybrid word + character TF-IDF,1,331,0,0.21919759340792505,0
+Hybrid word + character TF-IDF,1,333,1,0.7792595470654582,1
+Hybrid word + character TF-IDF,1,352,0,0.6543214419184497,1
+Hybrid word + character TF-IDF,1,359,0,0.1823053058942221,0
+Hybrid word + character TF-IDF,1,360,1,0.546692224275374,1
+Hybrid word + character TF-IDF,1,361,0,0.22820801445218505,0
+Hybrid word + character TF-IDF,1,363,1,0.4163991258983771,0
+Hybrid word + character TF-IDF,1,364,0,0.29572526531848675,0
+Hybrid word + character TF-IDF,1,367,1,0.3711132317021702,0
+Hybrid word + character TF-IDF,1,368,1,0.30390502001355973,0
+Hybrid word + character TF-IDF,1,371,1,0.7347027338673239,1
+Hybrid word + character TF-IDF,1,376,0,0.49694886296847585,0
+Hybrid word + character TF-IDF,1,384,1,0.745140893154288,1
+Hybrid word + character TF-IDF,1,386,1,0.5164310059511273,1
+Hybrid word + character TF-IDF,1,387,0,0.26823186316261055,0
+Hybrid word + character TF-IDF,1,396,0,0.4003312184399271,0
+Hybrid word + character TF-IDF,1,409,1,0.6468760289246439,1
+Hybrid word + character TF-IDF,1,418,0,0.14784991327586622,0
+Hybrid word + character TF-IDF,1,420,0,0.48962852130209245,0
+Hybrid word + character TF-IDF,1,428,1,0.8488315908637871,1
+Hybrid word + character TF-IDF,1,431,0,0.33995892051142096,0
+Hybrid word + character TF-IDF,1,432,0,0.368550012758994,0
+Hybrid word + character TF-IDF,1,436,0,0.26716501420355077,0
+Hybrid word + character TF-IDF,1,443,1,0.7199097324502914,1
+Hybrid word + character TF-IDF,1,462,1,0.8144158766059275,1
+Hybrid word + character TF-IDF,1,464,1,0.6654216795146398,1
+Hybrid word + character TF-IDF,1,469,1,0.3231469754688522,0
+Hybrid word + character TF-IDF,1,477,0,0.39311083594889473,0
+Hybrid word + character TF-IDF,1,483,1,0.9156139771718772,1
+Hybrid word + character TF-IDF,1,501,1,0.6950925852633244,1
+Hybrid word + character TF-IDF,1,503,1,0.613383847103014,1
+Hybrid word + character TF-IDF,1,510,1,0.4807242538414164,0
+Hybrid word + character TF-IDF,1,522,1,0.3549696538026891,0
+Hybrid word + character TF-IDF,1,530,1,0.7856762661545164,1
+Hybrid word + character TF-IDF,1,532,1,0.272295384036018,0
+Hybrid word + character TF-IDF,1,534,1,0.6816291220775855,1
+Hybrid word + character TF-IDF,1,538,1,0.7505871266999975,1
+Hybrid word + character TF-IDF,1,543,1,0.5150051503577255,1
+Hybrid word + character TF-IDF,1,545,1,0.4769795694343467,0
+Hybrid word + character TF-IDF,2,1,0,0.2662335165163135,0
+Hybrid word + character TF-IDF,2,2,0,0.16661666567119482,0
+Hybrid word + character TF-IDF,2,5,0,0.3666718392584774,0
+Hybrid word + character TF-IDF,2,12,0,0.14546410165849433,0
+Hybrid word + character TF-IDF,2,16,0,0.186459062920137,0
+Hybrid word + character TF-IDF,2,18,0,0.1631879271212727,0
+Hybrid word + character TF-IDF,2,25,0,0.20400108381520574,0
+Hybrid word + character TF-IDF,2,27,0,0.19451179944546784,0
+Hybrid word + character TF-IDF,2,28,0,0.1911266654016418,0
+Hybrid word + character TF-IDF,2,35,0,0.40611296599574054,0
+Hybrid word + character TF-IDF,2,37,0,0.355185259501207,0
+Hybrid word + character TF-IDF,2,38,1,0.8308072155455354,1
+Hybrid word + character TF-IDF,2,42,1,0.8186010452116036,1
+Hybrid word + character TF-IDF,2,44,0,0.403078483705694,0
+Hybrid word + character TF-IDF,2,45,0,0.3599657146925763,0
+Hybrid word + character TF-IDF,2,46,0,0.23373030839548575,0
+Hybrid word + character TF-IDF,2,54,0,0.2605051498174341,0
+Hybrid word + character TF-IDF,2,60,0,0.17950310135351538,0
+Hybrid word + character TF-IDF,2,75,0,0.1798810754657769,0
+Hybrid word + character TF-IDF,2,76,0,0.4331985921277687,0
+Hybrid word + character TF-IDF,2,81,0,0.18548698796280302,0
+Hybrid word + character TF-IDF,2,83,0,0.273516776546972,0
+Hybrid word + character TF-IDF,2,90,0,0.1731706378305071,0
+Hybrid word + character TF-IDF,2,95,0,0.15950431350537894,0
+Hybrid word + character TF-IDF,2,97,0,0.25722750024731733,0
+Hybrid word + character TF-IDF,2,114,1,0.4662141603447031,0
+Hybrid word + character TF-IDF,2,117,0,0.15975708759515586,0
+Hybrid word + character TF-IDF,2,125,1,0.6539536026921604,1
+Hybrid word + character TF-IDF,2,133,0,0.2812678236702731,0
+Hybrid word + character TF-IDF,2,134,0,0.2207664853172621,0
+Hybrid word + character TF-IDF,2,142,0,0.12998170819686103,0
+Hybrid word + character TF-IDF,2,154,1,0.9021504488644172,1
+Hybrid word + character TF-IDF,2,157,0,0.22531948106397862,0
+Hybrid word + character TF-IDF,2,165,0,0.19103633031750952,0
+Hybrid word + character TF-IDF,2,166,0,0.38816714830110244,0
+Hybrid word + character TF-IDF,2,169,0,0.28925630838755956,0
+Hybrid word + character TF-IDF,2,171,1,0.39641127265318404,0
+Hybrid word + character TF-IDF,2,172,0,0.6429883800309363,1
+Hybrid word + character TF-IDF,2,180,0,0.1908965552427252,0
+Hybrid word + character TF-IDF,2,185,0,0.25770579416939426,0
+Hybrid word + character TF-IDF,2,188,0,0.20991152606382907,0
+Hybrid word + character TF-IDF,2,199,0,0.2350475160829463,0
+Hybrid word + character TF-IDF,2,204,0,0.23062993228881792,0
+Hybrid word + character TF-IDF,2,207,0,0.13633637404270016,0
+Hybrid word + character TF-IDF,2,212,1,0.7493660311240934,1
+Hybrid word + character TF-IDF,2,220,0,0.14750967202233964,0
+Hybrid word + character TF-IDF,2,223,1,0.7377553604514174,1
+Hybrid word + character TF-IDF,2,225,0,0.20940143999706057,0
+Hybrid word + character TF-IDF,2,228,0,0.2802488179441114,0
+Hybrid word + character TF-IDF,2,229,0,0.32921485026603103,0
+Hybrid word + character TF-IDF,2,232,0,0.21725056302686027,0
+Hybrid word + character TF-IDF,2,234,0,0.2666687294186191,0
+Hybrid word + character TF-IDF,2,238,0,0.1626530105522105,0
+Hybrid word + character TF-IDF,2,245,0,0.1746023588756678,0
+Hybrid word + character TF-IDF,2,247,0,0.16758584570061957,0
+Hybrid word + character TF-IDF,2,259,0,0.13154900478669335,0
+Hybrid word + character TF-IDF,2,263,0,0.14912903315364165,0
+Hybrid word + character TF-IDF,2,267,1,0.4320650484328745,0
+Hybrid word + character TF-IDF,2,269,1,0.35165380828325327,0
+Hybrid word + character TF-IDF,2,270,0,0.14672153862757908,0
+Hybrid word + character TF-IDF,2,272,0,0.13783721210596578,0
+Hybrid word + character TF-IDF,2,275,0,0.134416697550111,0
+Hybrid word + character TF-IDF,2,286,0,0.12301523122186364,0
+Hybrid word + character TF-IDF,2,293,0,0.10450212044638543,0
+Hybrid word + character TF-IDF,2,294,1,0.3484101570775004,0
+Hybrid word + character TF-IDF,2,297,0,0.20915112147156736,0
+Hybrid word + character TF-IDF,2,315,1,0.5406740872441507,1
+Hybrid word + character TF-IDF,2,324,1,0.5294999752789415,1
+Hybrid word + character TF-IDF,2,325,0,0.16278140167354593,0
+Hybrid word + character TF-IDF,2,326,0,0.2706288076644289,0
+Hybrid word + character TF-IDF,2,332,1,0.567487316573984,1
+Hybrid word + character TF-IDF,2,334,1,0.8569157026423794,1
+Hybrid word + character TF-IDF,2,338,1,0.788344436041361,1
+Hybrid word + character TF-IDF,2,357,0,0.24258381739933277,0
+Hybrid word + character TF-IDF,2,365,1,0.7446770153147723,1
+Hybrid word + character TF-IDF,2,370,0,0.32972476142961166,0
+Hybrid word + character TF-IDF,2,383,0,0.34931487844469933,0
+Hybrid word + character TF-IDF,2,397,0,0.5216707777784206,1
+Hybrid word + character TF-IDF,2,406,1,0.7696155369218195,1
+Hybrid word + character TF-IDF,2,410,0,0.29536472790913926,0
+Hybrid word + character TF-IDF,2,422,1,0.36098624921400346,0
+Hybrid word + character TF-IDF,2,425,1,0.724572517611538,1
+Hybrid word + character TF-IDF,2,435,1,0.26848790414315227,0
+Hybrid word + character TF-IDF,2,438,1,0.764155696740531,1
+Hybrid word + character TF-IDF,2,441,1,0.6406966374903995,1
+Hybrid word + character TF-IDF,2,455,0,0.6111924655501332,1
+Hybrid word + character TF-IDF,2,456,1,0.5737779302670006,1
+Hybrid word + character TF-IDF,2,460,0,0.3227296351943728,0
+Hybrid word + character TF-IDF,2,463,0,0.2717307540799108,0
+Hybrid word + character TF-IDF,2,470,1,0.4014192024339929,0
+Hybrid word + character TF-IDF,2,475,0,0.31976297338249016,0
+Hybrid word + character TF-IDF,2,480,0,0.845985888885839,1
+Hybrid word + character TF-IDF,2,482,0,0.1996592842855706,0
+Hybrid word + character TF-IDF,2,485,0,0.43886807095587715,0
+Hybrid word + character TF-IDF,2,494,1,0.726750849185227,1
+Hybrid word + character TF-IDF,2,495,1,0.4918161006825308,0
+Hybrid word + character TF-IDF,2,497,1,0.5500282615620364,1
+Hybrid word + character TF-IDF,2,506,1,0.7963047868189188,1
+Hybrid word + character TF-IDF,2,509,1,0.5082862008412826,1
+Hybrid word + character TF-IDF,2,511,1,0.7520730271577187,1
+Hybrid word + character TF-IDF,2,512,1,0.6996750984854815,1
+Hybrid word + character TF-IDF,2,515,1,0.7250593625080493,1
+Hybrid word + character TF-IDF,2,518,1,0.3717263449846329,0
+Hybrid word + character TF-IDF,2,520,1,0.8282863901619555,1
+Hybrid word + character TF-IDF,2,523,1,0.7295955085339009,1
+Hybrid word + character TF-IDF,2,531,1,0.5751843646962577,1
+Hybrid word + character TF-IDF,2,535,1,0.4362117733793689,0
+Hybrid word + character TF-IDF,2,537,1,0.4909065996732128,0
+Hybrid word + character TF-IDF,2,541,1,0.6155790848371057,1
+Hybrid word + character TF-IDF,3,7,0,0.41334155197391226,0
+Hybrid word + character TF-IDF,3,8,0,0.19700050642791106,0
+Hybrid word + character TF-IDF,3,10,1,0.7950218640310837,1
+Hybrid word + character TF-IDF,3,17,0,0.3849664748994545,0
+Hybrid word + character TF-IDF,3,19,0,0.3089068899212951,0
+Hybrid word + character TF-IDF,3,20,0,0.20542192626879044,0
+Hybrid word + character TF-IDF,3,22,0,0.37329467232549357,0
+Hybrid word + character TF-IDF,3,26,0,0.1767866295095575,0
+Hybrid word + character TF-IDF,3,29,0,0.2569336790452673,0
+Hybrid word + character TF-IDF,3,30,0,0.18361557026306408,0
+Hybrid word + character TF-IDF,3,33,0,0.1617538325284002,0
+Hybrid word + character TF-IDF,3,51,0,0.2896530185923357,0
+Hybrid word + character TF-IDF,3,58,0,0.2548025018684296,0
+Hybrid word + character TF-IDF,3,62,0,0.4565063069475888,0
+Hybrid word + character TF-IDF,3,70,1,0.8858175487704153,1
+Hybrid word + character TF-IDF,3,73,0,0.4736783422051278,0
+Hybrid word + character TF-IDF,3,99,0,0.1533174267040514,0
+Hybrid word + character TF-IDF,3,104,0,0.17427943602051857,0
+Hybrid word + character TF-IDF,3,111,0,0.3920173760478976,0
+Hybrid word + character TF-IDF,3,115,0,0.2061262433196963,0
+Hybrid word + character TF-IDF,3,118,0,0.30938917225286083,0
+Hybrid word + character TF-IDF,3,120,0,0.4397535484415576,0
+Hybrid word + character TF-IDF,3,127,0,0.4855787105385165,0
+Hybrid word + character TF-IDF,3,130,1,0.764873221040755,1
+Hybrid word + character TF-IDF,3,131,0,0.19434393749876674,0
+Hybrid word + character TF-IDF,3,159,0,0.23240252580474652,0
+Hybrid word + character TF-IDF,3,161,0,0.2374165199349109,0
+Hybrid word + character TF-IDF,3,162,0,0.21618941503754585,0
+Hybrid word + character TF-IDF,3,164,0,0.2557936027122219,0
+Hybrid word + character TF-IDF,3,174,0,0.33139062319622725,0
+Hybrid word + character TF-IDF,3,179,0,0.41061472618376543,0
+Hybrid word + character TF-IDF,3,184,1,0.8571154235576256,1
+Hybrid word + character TF-IDF,3,186,0,0.2913985576481208,0
+Hybrid word + character TF-IDF,3,187,0,0.18992508766217836,0
+Hybrid word + character TF-IDF,3,193,0,0.3041008471327188,0
+Hybrid word + character TF-IDF,3,197,0,0.24729713176737522,0
+Hybrid word + character TF-IDF,3,203,0,0.44451187102683903,0
+Hybrid word + character TF-IDF,3,213,0,0.21481312815272502,0
+Hybrid word + character TF-IDF,3,214,0,0.20697969572165492,0
+Hybrid word + character TF-IDF,3,216,0,0.31968861321676934,0
+Hybrid word + character TF-IDF,3,221,0,0.41714954039759916,0
+Hybrid word + character TF-IDF,3,222,1,0.6256665119430231,1
+Hybrid word + character TF-IDF,3,235,0,0.1931961011350483,0
+Hybrid word + character TF-IDF,3,237,0,0.3213909528684627,0
+Hybrid word + character TF-IDF,3,239,0,0.23545076328672526,0
+Hybrid word + character TF-IDF,3,246,0,0.2035483858821269,0
+Hybrid word + character TF-IDF,3,248,0,0.3017261912413708,0
+Hybrid word + character TF-IDF,3,255,0,0.21386570985446263,0
+Hybrid word + character TF-IDF,3,256,0,0.2726448258599074,0
+Hybrid word + character TF-IDF,3,258,1,0.8032573041177916,1
+Hybrid word + character TF-IDF,3,265,0,0.11135809887197298,0
+Hybrid word + character TF-IDF,3,268,0,0.36151090768611555,0
+Hybrid word + character TF-IDF,3,274,0,0.296267408297858,0
+Hybrid word + character TF-IDF,3,278,0,0.45544118508362563,0
+Hybrid word + character TF-IDF,3,283,1,0.7209240821397342,1
+Hybrid word + character TF-IDF,3,288,0,0.33577889834954566,0
+Hybrid word + character TF-IDF,3,289,1,0.7281232420008493,1
+Hybrid word + character TF-IDF,3,295,0,0.1488580056100707,0
+Hybrid word + character TF-IDF,3,301,0,0.23851790790139113,0
+Hybrid word + character TF-IDF,3,310,1,0.8418899145103778,1
+Hybrid word + character TF-IDF,3,311,0,0.1551049842996269,0
+Hybrid word + character TF-IDF,3,318,1,0.592856817143999,1
+Hybrid word + character TF-IDF,3,319,0,0.19459798983132662,0
+Hybrid word + character TF-IDF,3,321,0,0.22478948979648908,0
+Hybrid word + character TF-IDF,3,330,0,0.2760515673706326,0
+Hybrid word + character TF-IDF,3,349,0,0.2557223523963285,0
+Hybrid word + character TF-IDF,3,350,0,0.23277795598554482,0
+Hybrid word + character TF-IDF,3,355,0,0.2774143544491959,0
+Hybrid word + character TF-IDF,3,358,1,0.8284525309813915,1
+Hybrid word + character TF-IDF,3,372,1,0.7311471684765344,1
+Hybrid word + character TF-IDF,3,373,0,0.2666849446458224,0
+Hybrid word + character TF-IDF,3,378,1,0.7955999084876019,1
+Hybrid word + character TF-IDF,3,391,1,0.8111385088565165,1
+Hybrid word + character TF-IDF,3,393,1,0.5796514238422625,1
+Hybrid word + character TF-IDF,3,395,1,0.41137833682059244,0
+Hybrid word + character TF-IDF,3,398,1,0.7016456090812989,1
+Hybrid word + character TF-IDF,3,399,1,0.88324310480829,1
+Hybrid word + character TF-IDF,3,407,0,0.3375854757932256,0
+Hybrid word + character TF-IDF,3,419,1,0.700339171563593,1
+Hybrid word + character TF-IDF,3,423,0,0.6277151518493769,1
+Hybrid word + character TF-IDF,3,424,0,0.1950161678062129,0
+Hybrid word + character TF-IDF,3,427,1,0.7741519349906825,1
+Hybrid word + character TF-IDF,3,429,0,0.34177375988436764,0
+Hybrid word + character TF-IDF,3,430,0,0.5596223602520276,1
+Hybrid word + character TF-IDF,3,442,0,0.4425647418940962,0
+Hybrid word + character TF-IDF,3,447,0,0.44256066981825365,0
+Hybrid word + character TF-IDF,3,450,1,0.7596136835982209,1
+Hybrid word + character TF-IDF,3,453,1,0.7308442038444566,1
+Hybrid word + character TF-IDF,3,454,0,0.35111400778814766,0
+Hybrid word + character TF-IDF,3,457,0,0.2931878316647282,0
+Hybrid word + character TF-IDF,3,458,1,0.796732606701501,1
+Hybrid word + character TF-IDF,3,461,1,0.30103863144285103,0
+Hybrid word + character TF-IDF,3,471,1,0.8356756775396121,1
+Hybrid word + character TF-IDF,3,473,1,0.7061392708253215,1
+Hybrid word + character TF-IDF,3,478,0,0.2908961604285857,0
+Hybrid word + character TF-IDF,3,487,1,0.39509798896198606,0
+Hybrid word + character TF-IDF,3,489,1,0.6825314024529705,1
+Hybrid word + character TF-IDF,3,491,1,0.7104379272355635,1
+Hybrid word + character TF-IDF,3,498,1,0.8039178582544003,1
+Hybrid word + character TF-IDF,3,499,1,0.6690222984303272,1
+Hybrid word + character TF-IDF,3,500,1,0.8954979275660255,1
+Hybrid word + character TF-IDF,3,502,1,0.5491028577650252,1
+Hybrid word + character TF-IDF,3,504,1,0.6268383171143164,1
+Hybrid word + character TF-IDF,3,508,1,0.7052888224760612,1
+Hybrid word + character TF-IDF,3,521,1,0.4424161736340938,0
+Hybrid word + character TF-IDF,3,524,1,0.741564748589465,1
+Hybrid word + character TF-IDF,3,525,1,0.678679806154802,1
+Hybrid word + character TF-IDF,3,527,1,0.34728655464576624,0
+Hybrid word + character TF-IDF,3,542,1,0.5204921427283113,1
+Hybrid word + character TF-IDF,4,0,0,0.1426206366879386,0
+Hybrid word + character TF-IDF,4,4,1,0.8426658470937348,1
+Hybrid word + character TF-IDF,4,13,0,0.3335889737938406,0
+Hybrid word + character TF-IDF,4,15,0,0.40125533443013367,0
+Hybrid word + character TF-IDF,4,36,0,0.32260633920543863,0
+Hybrid word + character TF-IDF,4,40,0,0.15171701482132055,0
+Hybrid word + character TF-IDF,4,48,0,0.4446354928692828,0
+Hybrid word + character TF-IDF,4,49,0,0.35940247504685013,0
+Hybrid word + character TF-IDF,4,53,0,0.23319680651931404,0
+Hybrid word + character TF-IDF,4,57,0,0.3918561726180482,0
+Hybrid word + character TF-IDF,4,59,0,0.3730369346901073,0
+Hybrid word + character TF-IDF,4,67,0,0.14019545656808716,0
+Hybrid word + character TF-IDF,4,72,0,0.22290936617507856,0
+Hybrid word + character TF-IDF,4,74,1,0.9063658866735723,1
+Hybrid word + character TF-IDF,4,87,1,0.5636268995624536,1
+Hybrid word + character TF-IDF,4,92,0,0.15726595879608377,0
+Hybrid word + character TF-IDF,4,96,0,0.11033671650851398,0
+Hybrid word + character TF-IDF,4,105,0,0.1932901670119236,0
+Hybrid word + character TF-IDF,4,106,0,0.20768636975756916,0
+Hybrid word + character TF-IDF,4,108,0,0.19925558005567204,0
+Hybrid word + character TF-IDF,4,110,0,0.3644805371333721,0
+Hybrid word + character TF-IDF,4,112,0,0.1572754945211915,0
+Hybrid word + character TF-IDF,4,116,1,0.785862495146619,1
+Hybrid word + character TF-IDF,4,121,0,0.40579733849721245,0
+Hybrid word + character TF-IDF,4,123,0,0.20952818343949642,0
+Hybrid word + character TF-IDF,4,126,0,0.3915652201455057,0
+Hybrid word + character TF-IDF,4,128,0,0.3218153203493982,0
+Hybrid word + character TF-IDF,4,141,0,0.48815505650060137,0
+Hybrid word + character TF-IDF,4,150,0,0.23809375983717182,0
+Hybrid word + character TF-IDF,4,152,1,0.8224950174426422,1
+Hybrid word + character TF-IDF,4,153,1,0.8886596543671693,1
+Hybrid word + character TF-IDF,4,155,0,0.39752135853717985,0
+Hybrid word + character TF-IDF,4,163,0,0.242077287519994,0
+Hybrid word + character TF-IDF,4,167,0,0.5351880061045591,1
+Hybrid word + character TF-IDF,4,168,1,0.7080120875602958,1
+Hybrid word + character TF-IDF,4,170,0,0.22948428950560404,0
+Hybrid word + character TF-IDF,4,183,0,0.26915477585475384,0
+Hybrid word + character TF-IDF,4,194,0,0.4960722597534325,0
+Hybrid word + character TF-IDF,4,198,0,0.15521474714650724,0
+Hybrid word + character TF-IDF,4,202,0,0.30480461703537676,0
+Hybrid word + character TF-IDF,4,206,0,0.2244186883963485,0
+Hybrid word + character TF-IDF,4,210,0,0.16158119635055807,0
+Hybrid word + character TF-IDF,4,215,0,0.24853162732546544,0
+Hybrid word + character TF-IDF,4,217,0,0.2889011182978184,0
+Hybrid word + character TF-IDF,4,224,0,0.19638242867563352,0
+Hybrid word + character TF-IDF,4,240,0,0.14753780912339645,0
+Hybrid word + character TF-IDF,4,244,0,0.5116973821203924,1
+Hybrid word + character TF-IDF,4,250,1,0.7170837165155858,1
+Hybrid word + character TF-IDF,4,257,0,0.13446816804905096,0
+Hybrid word + character TF-IDF,4,261,0,0.13945996637092894,0
+Hybrid word + character TF-IDF,4,264,0,0.45723474930333685,0
+Hybrid word + character TF-IDF,4,273,0,0.44014120538255563,0
+Hybrid word + character TF-IDF,4,287,0,0.3741204482053154,0
+Hybrid word + character TF-IDF,4,291,0,0.1953191870616289,0
+Hybrid word + character TF-IDF,4,292,0,0.2582902512975534,0
+Hybrid word + character TF-IDF,4,299,0,0.25910361654036584,0
+Hybrid word + character TF-IDF,4,302,0,0.20086589979426384,0
+Hybrid word + character TF-IDF,4,316,0,0.17175548089436057,0
+Hybrid word + character TF-IDF,4,337,0,0.219472743812735,0
+Hybrid word + character TF-IDF,4,340,0,0.2634438550648159,0
+Hybrid word + character TF-IDF,4,341,0,0.319112154761984,0
+Hybrid word + character TF-IDF,4,342,0,0.11159887587828705,0
+Hybrid word + character TF-IDF,4,344,0,0.24091819153089003,0
+Hybrid word + character TF-IDF,4,347,0,0.34616258534568844,0
+Hybrid word + character TF-IDF,4,348,1,0.7890075263144145,1
+Hybrid word + character TF-IDF,4,351,1,0.6179522350003418,1
+Hybrid word + character TF-IDF,4,354,0,0.14422113561688757,0
+Hybrid word + character TF-IDF,4,356,0,0.283238281901727,0
+Hybrid word + character TF-IDF,4,369,1,0.5924321128589963,1
+Hybrid word + character TF-IDF,4,374,1,0.6084802500396497,1
+Hybrid word + character TF-IDF,4,375,1,0.933869745464636,1
+Hybrid word + character TF-IDF,4,379,0,0.4779189978751561,0
+Hybrid word + character TF-IDF,4,381,1,0.9349287768964085,1
+Hybrid word + character TF-IDF,4,385,1,0.8609911607014771,1
+Hybrid word + character TF-IDF,4,388,0,0.24992896661339778,0
+Hybrid word + character TF-IDF,4,390,0,0.3754513746268883,0
+Hybrid word + character TF-IDF,4,392,1,0.7395415761534575,1
+Hybrid word + character TF-IDF,4,394,1,0.816447291721609,1
+Hybrid word + character TF-IDF,4,400,1,0.7830819527604427,1
+Hybrid word + character TF-IDF,4,401,1,0.6463080162604486,1
+Hybrid word + character TF-IDF,4,402,1,0.8947699742347794,1
+Hybrid word + character TF-IDF,4,403,1,0.8355922929079084,1
+Hybrid word + character TF-IDF,4,404,0,0.3355104994826609,0
+Hybrid word + character TF-IDF,4,417,0,0.3254489308261147,0
+Hybrid word + character TF-IDF,4,433,0,0.2170572981305896,0
+Hybrid word + character TF-IDF,4,434,0,0.5449046373327295,1
+Hybrid word + character TF-IDF,4,437,1,0.938966939824913,1
+Hybrid word + character TF-IDF,4,440,1,0.769374466310254,1
+Hybrid word + character TF-IDF,4,445,1,0.6217247447411479,1
+Hybrid word + character TF-IDF,4,446,1,0.5548146960538173,1
+Hybrid word + character TF-IDF,4,448,1,0.9080188356958614,1
+Hybrid word + character TF-IDF,4,451,0,0.11902152874642588,0
+Hybrid word + character TF-IDF,4,459,1,0.5268797293384797,1
+Hybrid word + character TF-IDF,4,465,1,0.7422028057876116,1
+Hybrid word + character TF-IDF,4,466,1,0.5045284471439483,1
+Hybrid word + character TF-IDF,4,467,1,0.9327596875468812,1
+Hybrid word + character TF-IDF,4,468,1,0.7830858159778751,1
+Hybrid word + character TF-IDF,4,474,0,0.31781947409028194,0
+Hybrid word + character TF-IDF,4,484,0,0.2535468376187975,0
+Hybrid word + character TF-IDF,4,488,1,0.6696914958260263,1
+Hybrid word + character TF-IDF,4,490,1,0.799704504950467,1
+Hybrid word + character TF-IDF,4,516,1,0.5486801872882502,1
+Hybrid word + character TF-IDF,4,517,1,0.7111675506940666,1
+Hybrid word + character TF-IDF,4,526,1,0.5628771656478881,1
+Hybrid word + character TF-IDF,4,528,1,0.7045486053300396,1
+Hybrid word + character TF-IDF,4,529,1,0.5433188794181425,1
+Hybrid word + character TF-IDF,4,536,1,0.6481768172841567,1
+Hybrid word + character TF-IDF,4,539,1,0.5924213607246277,1
+Hybrid word + character TF-IDF,4,540,1,0.8216673202354154,1
+Hybrid word + character TF-IDF,5,6,0,0.34448561188874094,0
+Hybrid word + character TF-IDF,5,9,0,0.19275891002038953,0
+Hybrid word + character TF-IDF,5,14,0,0.29601821334175416,0
+Hybrid word + character TF-IDF,5,24,0,0.335389134822355,0
+Hybrid word + character TF-IDF,5,31,0,0.24782403080801116,0
+Hybrid word + character TF-IDF,5,41,0,0.22872368140931337,0
+Hybrid word + character TF-IDF,5,43,1,0.7801200996126473,1
+Hybrid word + character TF-IDF,5,52,0,0.2704916132946186,0
+Hybrid word + character TF-IDF,5,56,1,0.8916078339990812,1
+Hybrid word + character TF-IDF,5,64,0,0.5144679544538299,1
+Hybrid word + character TF-IDF,5,65,0,0.23192092211504522,0
+Hybrid word + character TF-IDF,5,68,0,0.3771695780988424,0
+Hybrid word + character TF-IDF,5,71,0,0.298015134276269,0
+Hybrid word + character TF-IDF,5,80,1,0.8693257377701409,1
+Hybrid word + character TF-IDF,5,84,0,0.36089201491921197,0
+Hybrid word + character TF-IDF,5,85,0,0.18698530415701933,0
+Hybrid word + character TF-IDF,5,86,1,0.8332653389589311,1
+Hybrid word + character TF-IDF,5,88,0,0.37524097615413776,0
+Hybrid word + character TF-IDF,5,91,0,0.3271772333842157,0
+Hybrid word + character TF-IDF,5,93,0,0.4688440235458823,0
+Hybrid word + character TF-IDF,5,98,0,0.34324609415788815,0
+Hybrid word + character TF-IDF,5,102,0,0.14191151314344372,0
+Hybrid word + character TF-IDF,5,103,1,0.7796405732999081,1
+Hybrid word + character TF-IDF,5,107,0,0.24708012488290304,0
+Hybrid word + character TF-IDF,5,124,1,0.881412018970934,1
+Hybrid word + character TF-IDF,5,129,0,0.3372207921681019,0
+Hybrid word + character TF-IDF,5,140,0,0.3682862654844796,0
+Hybrid word + character TF-IDF,5,143,1,0.8868162452298595,1
+Hybrid word + character TF-IDF,5,144,1,0.8456480504836651,1
+Hybrid word + character TF-IDF,5,147,0,0.30905927964797536,0
+Hybrid word + character TF-IDF,5,148,0,0.3791573221564055,0
+Hybrid word + character TF-IDF,5,156,0,0.2665921727019449,0
+Hybrid word + character TF-IDF,5,160,0,0.18511277788654787,0
+Hybrid word + character TF-IDF,5,182,0,0.40273088623344677,0
+Hybrid word + character TF-IDF,5,189,0,0.23750286790477013,0
+Hybrid word + character TF-IDF,5,191,0,0.20632748629650094,0
+Hybrid word + character TF-IDF,5,192,0,0.17350349723925654,0
+Hybrid word + character TF-IDF,5,195,0,0.3235799297496544,0
+Hybrid word + character TF-IDF,5,196,0,0.15702369332118976,0
+Hybrid word + character TF-IDF,5,201,0,0.23825034560518774,0
+Hybrid word + character TF-IDF,5,205,0,0.18028313756854905,0
+Hybrid word + character TF-IDF,5,208,0,0.18924229903229858,0
+Hybrid word + character TF-IDF,5,209,0,0.2596574855698925,0
+Hybrid word + character TF-IDF,5,211,0,0.3122078945747324,0
+Hybrid word + character TF-IDF,5,226,0,0.23780089607024885,0
+Hybrid word + character TF-IDF,5,227,0,0.1207441275758571,0
+Hybrid word + character TF-IDF,5,230,0,0.1133481849263854,0
+Hybrid word + character TF-IDF,5,233,0,0.28748457438100866,0
+Hybrid word + character TF-IDF,5,236,1,0.861230426085989,1
+Hybrid word + character TF-IDF,5,242,0,0.1415525857627227,0
+Hybrid word + character TF-IDF,5,249,1,0.8231543227851976,1
+Hybrid word + character TF-IDF,5,254,1,0.793481012991146,1
+Hybrid word + character TF-IDF,5,266,1,0.7853906417160252,1
+Hybrid word + character TF-IDF,5,277,0,0.19551432262780993,0
+Hybrid word + character TF-IDF,5,279,0,0.10846697137347773,0
+Hybrid word + character TF-IDF,5,282,0,0.19788913429543792,0
+Hybrid word + character TF-IDF,5,284,0,0.18481832828769443,0
+Hybrid word + character TF-IDF,5,285,0,0.2714822773830698,0
+Hybrid word + character TF-IDF,5,290,0,0.30952656258865313,0
+Hybrid word + character TF-IDF,5,304,1,0.7545566557503633,1
+Hybrid word + character TF-IDF,5,305,1,0.650633603495119,1
+Hybrid word + character TF-IDF,5,307,0,0.30238836646189377,0
+Hybrid word + character TF-IDF,5,309,0,0.313539097176554,0
+Hybrid word + character TF-IDF,5,312,0,0.29013492618590153,0
+Hybrid word + character TF-IDF,5,314,0,0.22429058612001937,0
+Hybrid word + character TF-IDF,5,317,1,0.7483680146344142,1
+Hybrid word + character TF-IDF,5,320,0,0.27775897271823313,0
+Hybrid word + character TF-IDF,5,335,0,0.23071438898555244,0
+Hybrid word + character TF-IDF,5,336,0,0.35410373509328175,0
+Hybrid word + character TF-IDF,5,339,0,0.33416627658740383,0
+Hybrid word + character TF-IDF,5,343,0,0.1434093139681563,0
+Hybrid word + character TF-IDF,5,345,0,0.2914104893470019,0
+Hybrid word + character TF-IDF,5,346,0,0.2973597426925486,0
+Hybrid word + character TF-IDF,5,353,1,0.7867827502081045,1
+Hybrid word + character TF-IDF,5,362,1,0.8456152088306494,1
+Hybrid word + character TF-IDF,5,366,1,0.5532275159112758,1
+Hybrid word + character TF-IDF,5,377,1,0.8042276147155023,1
+Hybrid word + character TF-IDF,5,380,1,0.7382982337967942,1
+Hybrid word + character TF-IDF,5,382,1,0.43417326450898724,0
+Hybrid word + character TF-IDF,5,389,1,0.6224743308769476,1
+Hybrid word + character TF-IDF,5,405,1,0.8249832369807277,1
+Hybrid word + character TF-IDF,5,408,0,0.5434513913086036,1
+Hybrid word + character TF-IDF,5,411,1,0.48148000327692225,0
+Hybrid word + character TF-IDF,5,412,0,0.3480184964556102,0
+Hybrid word + character TF-IDF,5,413,0,0.5350482750067902,1
+Hybrid word + character TF-IDF,5,414,1,0.6147142324785844,1
+Hybrid word + character TF-IDF,5,415,1,0.9439401211892416,1
+Hybrid word + character TF-IDF,5,416,1,0.4053478331442451,0
+Hybrid word + character TF-IDF,5,421,1,0.8133532753584013,1
+Hybrid word + character TF-IDF,5,426,0,0.4332436771416765,0
+Hybrid word + character TF-IDF,5,439,0,0.5642449347839351,1
+Hybrid word + character TF-IDF,5,444,0,0.4806524824470077,0
+Hybrid word + character TF-IDF,5,449,0,0.3355431538264769,0
+Hybrid word + character TF-IDF,5,452,0,0.5055218072186651,1
+Hybrid word + character TF-IDF,5,472,0,0.5179828402978777,1
+Hybrid word + character TF-IDF,5,476,0,0.3521830536386904,0
+Hybrid word + character TF-IDF,5,479,1,0.3989091068449077,0
+Hybrid word + character TF-IDF,5,481,1,0.7679421376967988,1
+Hybrid word + character TF-IDF,5,486,1,0.6445198932230429,1
+Hybrid word + character TF-IDF,5,492,1,0.6387930868312218,1
+Hybrid word + character TF-IDF,5,493,1,0.7285574124944205,1
+Hybrid word + character TF-IDF,5,496,1,0.6687788249144668,1
+Hybrid word + character TF-IDF,5,505,1,0.6487938399129228,1
+Hybrid word + character TF-IDF,5,507,1,0.40875392126671833,0
+Hybrid word + character TF-IDF,5,513,1,0.690925567523798,1
+Hybrid word + character TF-IDF,5,514,1,0.7835012594476329,1
+Hybrid word + character TF-IDF,5,519,1,0.8131844867399258,1
+Hybrid word + character TF-IDF,5,533,1,0.7076343570454119,1
+Hybrid word + character TF-IDF,5,544,1,0.5940950742218579,1

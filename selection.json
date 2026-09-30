@@ -1,0 +1,29 @@
+{
+  "protocol": "Five-fold stratified cross-validation on the official training split; model family selected by mean Macro-F1. The official test split was not used for selection.",
+  "seed": 42,
+  "selected_model": "Character TF-IDF + logistic",
+  "primary_metric": "macro_f1",
+  "candidates": {
+    "Rule scanner": {
+      "cv_macro_f1_mean": 0.5086916738390421,
+      "cv_macro_f1_sd": 0.055618018750097704
+    },
+    "Dummy baseline": {
+      "cv_macro_f1_mean": 0.3858234682265008,
+      "cv_macro_f1_sd": 0.001740771819482643
+    },
+    "Word TF-IDF + logistic": {
+      "cv_macro_f1_mean": 0.8836877720999109,
+      "cv_macro_f1_sd": 0.04773317540983486
+    },
+    "Character TF-IDF + logistic": {
+      "cv_macro_f1_mean": 0.9211571444696178,
+      "cv_macro_f1_sd": 0.04216938984382506
+    },
+    "Hybrid word + character TF-IDF": {
+      "cv_macro_f1_mean": 0.9073703179596719,
+      "cv_macro_f1_sd": 0.050340013916649044
+    }
+  },
+  "decision_threshold": 0.5
+}

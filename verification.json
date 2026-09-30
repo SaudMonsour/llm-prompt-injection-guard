@@ -1,0 +1,59 @@
+{
+  "status": "passed",
+  "snapshot_rows_checked": 662,
+  "source_cells_checked": 1324,
+  "prediction_rows_recalculated": 116,
+  "prediction_max_absolute_difference": 8.326672684688674e-17,
+  "macro_f1_recalculated": 0.8699065420560748,
+  "roc_auc_recalculated": 0.9708333333333333,
+  "model_arrays_finite": true,
+  "cli_smoke_tests": {
+    "attack": {
+      "label": "prompt_injection",
+      "probability": 0.8052,
+      "threshold": 0.5,
+      "matched_rule_signals": [
+        "ignore .*previous",
+        "(?:show|reveal).*prompt"
+      ]
+    },
+    "benign": {
+      "label": "benign",
+      "probability": 0.269649,
+      "threshold": 0.5,
+      "matched_rule_signals": []
+    }
+  },
+  "figures": {
+    "confusion-matrix.png": {
+      "width": 960,
+      "height": 800,
+      "sha256": "df20f447331be55ec25c7350601f25116add973e3c664baf94ab1a82b79b6f37"
+    },
+    "data-quality.png": {
+      "width": 1280,
+      "height": 800,
+      "sha256": "a94e59399c5826b103988c67b075dd4ff71b73813c60f12bb2a7587f22bce912"
+    },
+    "distributions.png": {
+      "width": 1280,
+      "height": 800,
+      "sha256": "1cac83b8e672e09b2292b87353087ed3513931da9fac73db538112135b790fa4"
+    },
+    "feature-importance.png": {
+      "width": 1440,
+      "height": 1120,
+      "sha256": "6b38720cafd0d8cc954d107d197feaf6ea6112cc1b9f7b456cea1f86a81ddb97"
+    },
+    "model-comparison.png": {
+      "width": 1600,
+      "height": 960,
+      "sha256": "c6b4f3621f65c0b8ce0d0f9bdbbbf8f007951b05ab1f137bdf623751e13cf267"
+    },
+    "roc-curve.png": {
+      "width": 960,
+      "height": 800,
+      "sha256": "2d9e77cff7754f706cc7e0ff198a99b5a83cbf6baf16bc570099e40444c7c247"
+    }
+  }
+}

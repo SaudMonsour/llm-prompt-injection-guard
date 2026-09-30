@@ -1,0 +1,16 @@
+{
+  "suggested_repo_name": "llm-prompt-injection-guard",
+  "github_about": "Local prompt-injection detector for LLM apps, benchmarked on deepset data with reproducible evaluation and a reusable CLI.",
+  "topics": [
+    "llm-security",
+    "prompt-injection",
+    "ai-engineering",
+    "llm-engineering",
+    "nlp",
+    "machine-learning",
+    "scikit-learn",
+    "security",
+    "text-classification",
+    "responsible-ai"
+  ]
+}

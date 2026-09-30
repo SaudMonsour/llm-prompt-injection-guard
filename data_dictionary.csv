@@ -1,0 +1,4 @@
+column,type,description,missing
+text,string,Input prompt,0
+label,integer,"0 benign, 1 prompt injection",0
+split,string,Official train/test split,0

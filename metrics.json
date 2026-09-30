@@ -1,0 +1,165 @@
+{
+  "selected_model": "Character TF-IDF + logistic",
+  "primary_metric": "macro_f1",
+  "models": {
+    "Rule scanner": {
+      "cv_macro_f1_mean": 0.5086916738390421,
+      "cv_macro_f1_sd": 0.055618018750097704,
+      "fold_macro_f1": [
+        0.43634213638155306,
+        0.53159757330637,
+        0.4640531561461794,
+        0.5458333333333334,
+        0.5656321700277744
+      ],
+      "test": {
+        "macro_f1": 0.44387155133423795,
+        "accuracy": 0.5431034482758621,
+        "injection_precision": 1.0,
+        "injection_recall": 0.11666666666666667,
+        "injection_f1": 0.208955223880597,
+        "roc_auc": 0.5583333333333333,
+        "average_precision": 0.5735632183908046,
+        "confusion_matrix": [
+          [
+            56,
+            0
+          ],
+          [
+            53,
+            7
+          ]
+        ]
+      }
+    },
+    "Dummy baseline": {
+      "cv_macro_f1_mean": 0.3858234682265008,
+      "cv_macro_f1_sd": 0.001740771819482643,
+      "fold_macro_f1": [
+        0.3854748603351955,
+        0.38764044943820225,
+        0.38764044943820225,
+        0.384180790960452,
+        0.384180790960452
+      ],
+      "test": {
+        "macro_f1": 0.32558139534883723,
+        "accuracy": 0.4827586206896552,
+        "injection_precision": 0.0,
+        "injection_recall": 0.0,
+        "injection_f1": 0.0,
+        "roc_auc": 0.5,
+        "average_precision": 0.5172413793103449,
+        "confusion_matrix": [
+          [
+            56,
+            0
+          ],
+          [
+            60,
+            0
+          ]
+        ]
+      }
+    },
+    "Word TF-IDF + logistic": {
+      "cv_macro_f1_mean": 0.8836877720999109,
+      "cv_macro_f1_sd": 0.04773317540983486,
+      "fold_macro_f1": [
+        0.8793859649122806,
+        0.8106177606177607,
+        0.901268115942029,
+        0.9423890063424947,
+        0.8847780126849893
+      ],
+      "test": {
+        "macro_f1": 0.8525607476635514,
+        "accuracy": 0.853448275862069,
+        "injection_precision": 0.9574468085106383,
+        "injection_recall": 0.75,
+        "injection_f1": 0.8411214953271028,
+        "roc_auc": 0.9476190476190477,
+        "average_precision": 0.9608420071131304,
+        "confusion_matrix": [
+          [
+            54,
+            2
+          ],
+          [
+            15,
+            45
+          ]
+        ]
+      }
+    },
+    "Character TF-IDF + logistic": {
+      "cv_macro_f1_mean": 0.9211571444696178,
+      "cv_macro_f1_sd": 0.04216938984382506,
+      "fold_macro_f1": [
+        0.9089655172413793,
+        0.8548325722983257,
+        0.9297227595099935,
+        0.9513609995537706,
+        0.9609038737446198
+      ],
+      "test": {
+        "macro_f1": 0.8699065420560748,
+        "accuracy": 0.8706896551724138,
+        "injection_precision": 0.9787234042553191,
+        "injection_recall": 0.7666666666666667,
+        "injection_f1": 0.8598130841121495,
+        "roc_auc": 0.9708333333333333,
+        "average_precision": 0.9765508202639815,
+        "confusion_matrix": [
+          [
+            55,
+            1
+          ],
+          [
+            14,
+            46
+          ]
+        ]
+      }
+    },
+    "Hybrid word + character TF-IDF": {
+      "cv_macro_f1_mean": 0.9073703179596719,
+      "cv_macro_f1_sd": 0.050340013916649044,
+      "fold_macro_f1": [
+        0.9089655172413793,
+        0.8340943683409436,
+        0.9297227595099935,
+        0.9710747456877488,
+        0.8929941990182955
+      ],
+      "test": {
+        "macro_f1": 0.8787335722819594,
+        "accuracy": 0.8793103448275862,
+        "injection_precision": 0.9791666666666666,
+        "injection_recall": 0.7833333333333333,
+        "injection_f1": 0.8703703703703703,
+        "roc_auc": 0.9693452380952381,
+        "average_precision": 0.975416894275189,
+        "confusion_matrix": [
+          [
+            55,
+            1
+          ],
+          [
+            13,
+            47
+          ]
+        ]
+      }
+    }
+  },
+  "test_bootstrap_ci": {
+    "method": "1000-row bootstrap of fixed holdout predictions",
+    "lower_95": 0.8044965603135004,
+    "upper_95": 0.9300276588622871
+  },
+  "official_test_rows": 116,
+  "errors": 15,
+  "false_positives": 1,
+  "false_negatives": 14
+}

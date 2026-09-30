@@ -1,0 +1,17 @@
+{
+  "status": "completed",
+  "date": "2026-09-30",
+  "entry_point": "study.py",
+  "verification_entry_point": "verify.py",
+  "framework": "scikit-learn",
+  "paid_llm_calls": 0,
+  "human_review": "pending",
+  "canonical_parent_commit": "07fc1aa040de8e8cd0aab89e48594bc968676b43",
+  "canonical_agent_result": "no_project",
+  "reproducibility": {
+    "source_hashes_verified": true,
+    "snapshot_rows_checked": 662,
+    "holdout_predictions_recalculated": 116,
+    "prediction_max_absolute_difference": 8.326672684688674e-17
+  }
+}
