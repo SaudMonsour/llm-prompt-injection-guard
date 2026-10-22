@@ -1,61 +1,77 @@
-# كشف حقن التعليمات في تطبيقات النماذج اللغوية
+# Prompt Injection Guard for LLM Applications
 
-أداة محلية لتصنيف النصوص ورصد محاولات حقن التعليمات قبل وصول المحتوى غير الموثوق إلى النموذج اللغوي.
+A local text-classification tool that detects prompt-injection attempts before untrusted text reaches an LLM.
 
-تضم المجموعة 662 نصًا. اختير تمثيل TF-IDF للمحارف مع الانحدار اللوجستي على بيانات التدريب، ثم قُيّم على 116 عينة محفوظة.
+---
 
-سُجلت 15 حالة خطأ: إيجابية كاذبة واحدة و14 سلبية كاذبة. فاصل الثقة التقريبي لمقياس F1 الكلي هو [0.8045, 0.9300]، مشروط بالنموذج الثابت.
+## Overview
 
-المجموعة صغيرة وتتضمن عبارات هجوم يمكن تمييزها. قد تتجاوزها هجمات جديدة أو مموهة أو متعددة اللغات أو غير مباشرة. تستخدم الأداة طبقةً مساعدة ضمن دفاع متعدد الطبقات، ولا توفر ضمانًا أمنيًا.
+* **Task:** Binary classification
+* **Dataset:** 662 prompts, 1 text feature.
+* **Selected Model:** **Character TF-IDF + logistic** (Macro-F1 = 0.8699).
+* **Baseline Comparison:** Dummy baseline achieved Macro-F1 = 0.3256.
 
-## النتائج المسجّلة
+---
 
-الأرقام التالية من التنفيذ المحفوظ لهذه النسخة؛ لم تُعَد التجارب أثناء تعريب التوثيق.
+## Key Results
 
-### التحقق المتقاطع على التدريب
+### Training Cross-Validation
 
-| النموذج | Macro-F1 | الانحراف المعياري بين الطيات |
+| Model | Macro-F1 | Fold SD |
 | :--- | :--- | :--- |
-| **TF-IDF للمحارف مع انحدار لوجستي** | **0.9212** | 0.0422 |
-| TF-IDF يجمع الكلمات والمحارف | 0.9074 | 0.0503 |
-| TF-IDF للكلمات مع انحدار لوجستي | 0.8837 | 0.0477 |
-| ماسح القواعد | 0.5087 | 0.0556 |
-| خط الأساس البسيط | 0.3858 | 0.0017 |
+| **Character TF-IDF + logistic** | **0.9212** | 0.0422 |
+| Hybrid word + character TF-IDF | 0.9074 | 0.0503 |
+| Word TF-IDF + logistic | 0.8837 | 0.0477 |
+| Rule scanner | 0.5087 | 0.0556 |
+| Dummy baseline | 0.3858 | 0.0017 |
 
-### التقييم النهائي على الاختبار المحفوظ (116 عينة)
+### Final Holdout Evaluation (116 Samples)
 
-| النموذج | Macro-F1 | ROC-AUC | استدعاء محاولات الحقن |
+| Model | Macro-F1 | ROC-AUC | Injection Recall |
 | :--- | :--- | :--- | :--- |
-| **TF-IDF للمحارف مع انحدار لوجستي** | **0.8699** | **0.9708** | **0.7667** |
-| خط الأساس البسيط | 0.3256 | 0.5000 | 0.0000 |
+| **Character TF-IDF + logistic** | **0.8699** | **0.9708** | **0.7667** |
+| Dummy Baseline | 0.3256 | 0.5000 | 0.0000 |
 
-## الرسوم والنتائج المرئية
+The selected model made **15 errors**: 1 false positives and 14 false negatives. Its fixed-model bootstrap 95% interval for test Macro-F1 is [0.8045, 0.9300].
 
-![رسم 1: جودة البيانات وتوازن الفئات](figures/data-quality.png)
+---
 
-![رسم 2: توزيع القيم](figures/distributions.png)
+## Data Summary
 
-![رسم 3: مقارنة النماذج](figures/model-comparison.png)
+* **Source:** [deepset Prompt Injections](https://huggingface.co/datasets/deepset/prompt-injections)
+* **Data Quality:** 662 usable rows, 1 text feature, 0 missing cells, 0 exact duplicate rows retained because the official split is preserved.
+* **Key Feature:**  al had the largest absolute learned coefficient (1.0418).
+* **Notes:** The dataset is small and contains recognizable attack phrases. Scores measure this benchmark only; novel, obfuscated, multilingual, or indirect injections may bypass the detector. Use the probability as one layer in a defense-in-depth design.
 
-![رسم 4: مصفوفة الالتباس](figures/confusion-matrix.png)
+---
 
-![رسم 5: منحنى الاستقبال التشغيلي](figures/roc-curve.png)
+## Visualizations
 
-![رسم 6: أهمية الخصائص](figures/feature-importance.png)
+| Dataset Composition | Prompt Lengths |
+| :---: | :---: |
+| ![Dataset composition](figures/data-quality.png) | ![Prompt lengths](figures/distributions.png) |
 
-الرسوم محفوظة من التنفيذ الأصلي. تعريب هذه الصفحة لا يغيّر بياناتها أو تسميات الصور داخل الملفات.
+| Model Comparison | Confusion Matrix |
+| :---: | :---: |
+| ![Model comparison](figures/model-comparison.png) | ![Confusion matrix](figures/confusion-matrix.png) |
 
-## الملفات المرجعية
+| ROC Curve | Learned Signals |
+| :---: | :---: |
+| ![ROC curve](figures/roc-curve.png) | ![Learned signals](figures/feature-importance.png) |
 
-- [مقاييس التقييم والنتائج](metrics.json).
-- [بيانات التدقيق وبيئة التنفيذ](audit.json).
-- [مصدر البيانات وشروط الترخيص](SOURCE.md).
-- [سجل أخطاء الاختبار](error_analysis.csv).
-- [دفتر شرح التحليل](analysis.ipynb).
-- [ملاحظات المراجعة البشرية](LEARNING_NOTES.md).
+---
 
-## المصادر والإسناد
+## Repository Structure
 
-- [مصدر 1: deepset Prompt Injections](https://huggingface.co/datasets/deepset/prompt-injections).
-
-[المرجع التقني الإنجليزي الكامل](README.en.md) يحفظ تفاصيل النسخة الأصلية. تُترك أسماء الملفات والأوامر ومعرّفات النماذج والمقاييس بصيغتها التقنية لضمان تطابقها مع الكود.
+    figures/                    Data, performance, and diagnostic plots
+    analysis.ipynb              Executed analysis summary
+    audit.json                  Runtime metadata and source hashes
+    data_dictionary.csv         Dataset field definitions
+    descriptive_statistics.csv Length statistics by split and class
+    error_analysis.csv          Holdout predictions and error types
+    feature_importance.csv      Learned text-signal coefficients
+    metrics.json                CV and official holdout scores
+    prompt_guard.joblib         Fitted local detector
+    prompt_guard.py             Reusable command-line scanner
+    study.py                    Full study pipeline
+    README.md
